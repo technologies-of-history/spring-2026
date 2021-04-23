@@ -1,0 +1,165 @@
+I">+<p><a href="https://fromthepage.com/upenn/kislak-center-recipe-books/arts-and-sciences-manuscript-chemistry/display/1185878">Link to original recipe</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;doc&gt;
+...
+...
+...
+&lt;div type = "recipe"&gt;
+  ...
+  ...
+  ...
+  &lt;page&gt;44&lt;/page&gt;
+  &lt;pageNum&gt;14&lt;/pageNum&gt;
+  &lt;p&gt;
+    it down with a &lt;tl&gt; String &lt;/tl&gt; as far as
+    the water, then fire the &lt;m&gt; Gun Powder &lt;/m&gt;
+    with a &lt;tl&gt; hot Tool &lt;/tl&gt;, + it will clean the
+    well of every noxious vapor.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;red&gt; &lt;dbl&gt; &lt;/dbl&gt; &lt;/red&gt;
+
+&lt;div type = "recipe"&gt;
+  &lt;recNum&gt; &lt;red&gt; 16 &lt;/red&gt; &lt;/recNum&gt;
+  &lt;head&gt; &lt;red&gt; To Kill Buggs &lt;/red&gt; &lt;/head&gt;
+  &lt;line&gt; &lt;/line&gt;
+  &lt;p&gt;
+    Mix &lt;m&gt; Oil of Turpentine &lt;/m&gt; with
+    the &lt;m&gt; &lt;pl&gt; Neopolitan &lt;/pl&gt; Ointment &lt;/m&gt;, + smear
+    the Bedstead, + peel into the &lt;q&gt; ottebes &lt;/q&gt;
+    where the Buggs are + they will be
+    destroyed.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;red&gt; &lt;dbl&gt; &lt;/dbl&gt; &lt;/red&gt;
+
+&lt;div type = "recipe"&gt;
+  &lt;recNum&gt; &lt;brown&gt; 17 &lt;/brown&gt; &lt;/recNum&gt;
+  &lt;margin&gt;
+    &lt;brown&gt; To &lt;person&gt; &lt;q&gt; Colo le tterine &lt;/q&gt;
+    of the Artilery
+    at &lt;pl&gt; Gibralter &lt;/pl&gt; &lt;/person&gt;
+    &lt;q&gt; [Goent OZEH]&lt;/q&gt; &lt;/brown&gt;
+  &lt;/margin&gt;
+  &lt;head&gt; &lt;brown&gt; Pigment for Wood &lt;/brown&gt; &lt;/head&gt;
+  &lt;dbl&gt;&lt;/dbl&gt;
+  &lt;p&gt;
+    &lt;abr type = "recipe"&gt; Rx &lt;/abr&gt; &lt;m&gt; Pitch &lt;qt&gt; 10 tt &lt;/qt&gt; &lt;/m&gt; + &lt;m&gt; Tar &lt;qt&gt; tty &lt;/qt&gt; &lt;/m&gt; as much
+    &lt;margin&gt;
+      &lt;m&gt; Rosen &lt;qt&gt; tty+ &lt;/qt&gt; &lt;/m&gt;
+      &lt;m&gt; &lt;qt&gt; 1 Quart &lt;/qt&gt; &lt;q&gt; Fabuin &lt;/q&gt; Oil &lt;/m&gt;
+    &lt;/margin&gt;
+    &lt;m&gt; Grease or oil &lt;/m&gt; as will give it the
+    Consistence of Paint, melt these together
+  &lt;/p&gt;
+  &lt;page&gt; 44 &lt;/page&gt;
+  ...
+  ...
+  ...
+&lt;/div&gt;
+...
+...
+...
+&lt;/doc&gt;
+</code></pre></div></div>
+<!--more-->
+<h3 id="what-aspects-of-the-document-do-i-want-to-tag-for-a-researcher">What aspects of the document do I want to tag for a researcher?</h3>
+
+<p>I wanted to capture aspects of the writing itself – what role a word or phrase played in the recipe – but also aspects of the physical  presentation of the text.</p>
+
+<p>The physical aspects that stood out to me were:</p>
+<ul>
+  <li>The use of various colors in different parts of the text</li>
+  <li>Lines and double lines used to segment the text</li>
+  <li>The presence of possibly illegible or unintelligible words/phrases</li>
+  <li>Writing that appears in the margins</li>
+</ul>
+
+<p>For the most part, I don’t have a clear idea about what a researcher would do with these tags, but they were the physical features that struck me looking when looking at the document. I imagine that a researcher who isn’t using the image of the document might need these tags to understand its layout and points of emphasis.</p>
+
+<p>I also do have a few vague ideas about how these could be used:</p>
+<ul>
+  <li>First, it seems possible that a researcher may only be interested in how a writer/reader used margin notes, in which case tagging these margin notes would allow the researcher to easily compile those notes.</li>
+  <li>Second, a researcher may be looking for phrases or words that are now obsolete and unrecognizable, in which case they might want to look through the words/phrases marked as illegible/unintelligible.</li>
+</ul>
+
+<p>Some aspects of the writing that I wanted to capture were typical generally useful features such as words that correspond to a person’s name or a place.</p>
+
+<p>Other aspects were specific to the list-of-recipes format of the text. These tags were primarily considered based on their use for someone who might try to recreate the recipe (such as in the fake coral creation experiment we saw in class). Similar to the items that were tagged in  the recipe we went over in class, the aspects that I wanted to tag for this reason were</p>
+<ul>
+  <li>quantities</li>
+  <li>materials</li>
+  <li>tools</li>
+</ul>
+
+<p>Lastly, I wanted to capture the organizational layout of the document, tagging paragraphs, recipes, and page breaks.</p>
+
+<h3 id="how-can-i-categorize-this-document-what-markup-codes-will-be-useful">How can I categorize this document? What markup codes will be useful?</h3>
+
+<p>To categorize this document, I needed to tag the aspects of the document as described above.</p>
+
+<p>The tags I used are:</p>
+<ul>
+  <li>organizational tags:
+    <ul>
+      <li>&lt;p&gt; <em>paragraph</em> &lt;/p&gt; to enclose paragraphs</li>
+      <li>&lt;div type = “recipe”&gt; <em>recipe</em> &lt;/div&gt; to enclose entire recipes</li>
+      <li>&lt;page&gt; <em>pageNum</em> &lt;/page&gt; to indicate a page break/ new page</li>
+      <li>&lt;doc&gt; <em>document</em> &lt;doc&gt; root tag to enclose the entire document</li>
+    </ul>
+  </li>
+  <li>physical tags:
+    <ul>
+      <li>&lt;margin&gt; <em>marginText</em> &lt;/margin&gt; to indicate writing in the (left) margin</li>
+      <li>&lt;red&gt; <em>redText</em> &lt;/red&gt; to indicate writing in red ink</li>
+      <li>&lt;brown&gt; <em>brownText</em> &lt;/brown&gt; to indicate writing in brown ink</li>
+      <li>&lt;q&gt; <em>questionableText</em> &lt;/q&gt; to indicate possibly illegible or unintelligible words/phrases</li>
+      <li>&lt;line&gt; &lt;/line&gt; to indicate a single line across the page</li>
+      <li>&lt;dbl&gt; &lt;/dbl&gt; to indicate a double line across the page</li>
+      <li>&lt;head&gt; <em>heading</em> &lt;/head&gt; to indicate writing that appears as a heading. All such writing (aside from recipe numbers, which were considered an exception not included in the heading tags) was actually a recipe title, so I decided to not make an additional title tag since this tag serves this. If I was to go through more of the text and find instances where heading text isn’t a recipe title, I would create an additional recipe title tag which I would consider a document-specific writing tag.</li>
+    </ul>
+  </li>
+  <li>writing tags:
+    <ul>
+      <li>generic tags:
+        <ul>
+          <li>&lt;abr type = <em>full word</em>&gt; <em>abbreviation</em> &lt;/abr&gt; used to indicate an abbreviation for a longer full word.</li>
+          <li>&lt;pl&gt; <em>place</em> &lt;/pl&gt; used to indicate a word representing a place name</li>
+          <li>&lt;person&gt; <em>person name</em> &lt;/person&gt; used to indicate a word/phrase representing a person’s name and/or title</li>
+        </ul>
+      </li>
+      <li>recipe specific tags:
+        <ul>
+          <li>&lt;qt&gt; <em>quantity</em> &lt;/qt&gt; to indicate a word/phrase representing a quantity of material in the recipe</li>
+          <li>&lt;m&gt; <em>material</em> &lt;/m&gt; to indicate a word/phrase representing a material used in the recipe</li>
+          <li>&lt;tl&gt; <em>tool</em> &lt;/tl&gt; to indicate a tool used in the recipe</li>
+        </ul>
+      </li>
+      <li>document specific tags:
+        <ul>
+          <li>&lt;recNum&gt; <em>recipeNum</em> &lt;recNum&gt; to indicate that a number was the number of the recipe in the list (these numbers were marked on the document by the author)</li>
+          <li>&lt;pageNum&gt; <em>pageNum</em> &lt;pageNum&gt; to indicate a physically marked page number. Note that these numbers don’t line up with the page in the online manuscript due to blank pages and front matter at the beginning. For that reason and just to let researchers know that the author did in fact put page numbers, I felt that putting this tag in addition to the page tag was worth it.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="what-textual-structure-seems-appropriate-consider-the-hierarchy-of-your-tags">What textual structure seems appropriate? Consider the hierarchy of your tags.</h3>
+
+<p>On a broad organizational level, the document was separated as a recipe list, with a number, title, and (sometimes) multiple paragraphs of writing in each recipe. In addition, there were page numbers and breaks that frequently appeared in the middle of recipes (but not paragraphs, since that doesn’t really make sense).</p>
+
+<p>To account for this organization, I broadly formatted my text with paragraph tags, page tags, recipe number tags, and heading tags nested directly inside div tags (with type = “recipe”). Margin text occasionally appeared alongside title content outside of paragraphs, so there are margin tags nested directly inside div tags as well. Also, some lines or double lines appear between titles and paragraphs, so these tags are also nested directly inside div tags. (double lines also appear outside of recipes, so these are the only tag put outside of div tags).</p>
+
+<p>In terms of finer textual structure, there was some tension about  hierarchy when physical aspects of the texts. For example, there were chunks of text including headings/titles, recipe numbers, lines, and margin writing that were all a different ink color (red or brown instead of black). In these cases, I chose to put color tags as the children of other writing or physical tags (aside from the line or double line tags since these are marks themselves rather than indicators of a physical property of enclosed writing).</p>
+
+<p>The finest textual elements were writing aspects which (aside from the 2 document-specific tags) could be reasonably marked as the child of any non-writing aspect tag since they were small in size and clearly contained within other tags. For example, material tags such as that for Oil of Turpentine clearly should be the child of broader tags such as those for paragraphs. Hierarchy between these writing tags was also easily decided by size; for Neopolitan Ointment, for example, the Neopolitan place descriptor is contained within the material tag for Neopolitan Ointment as a whole.</p>
+
+<h3 id="what-questions-about-markup-emerged-throughout-the-process">What questions about markup emerged throughout the process?</h3>
+
+<p>I primarily ran into a lot of hierarchy and how-much-to-tag, but these aren’t really questions about markup so much as personal preference and typical practice.</p>
+
+<p>One question I did have was about the use of “type = <em>__</em>” in the beginning of tags. I only found it used for the div and language tags  in sample code. It can’t be that this feature only usable for specific tags, so is this just a coincidence or is it a broader phenomenon that typing tags is uncommon and used only in a few specific cases. What are some other examples of good uses of this type parameter? I experimented in my own code by adding a type parameter to abbreviation tags to store the full word but I’m not sure if this is a reasonable use.</p>
+:ET

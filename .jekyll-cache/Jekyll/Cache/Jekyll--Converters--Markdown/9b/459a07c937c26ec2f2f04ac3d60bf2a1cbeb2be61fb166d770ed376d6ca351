@@ -1,0 +1,67 @@
+I"Ó<p><a href="https://fromthepage.com/upenn/kislak-center-recipe-books/arts-and-sciences-manuscript-chemistry/display/1185878">Link to original recipe</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;doc&gt;
+...
+...
+...
+&lt;div type = "recipe"&gt;
+  ...
+  ...
+  ...
+  &lt;page&gt;44&lt;/page&gt;
+  &lt;pageNum&gt;14&lt;/pageNum&gt;
+  &lt;p&gt;
+    it down with a &lt;tl&gt; String &lt;/tl&gt; as far as
+    the water, then fire the &lt;m&gt; Gun Powder &lt;/m&gt;
+    with a &lt;tl&gt; hot Tool &lt;/tl&gt;, + it will clean the
+    well of every noxious vapor.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;red&gt; &lt;dbl&gt; &lt;/dbl&gt; &lt;/red&gt;
+
+&lt;div type = "recipe"&gt;
+  &lt;recNum&gt; &lt;red&gt; 16 &lt;/red&gt; &lt;/recNum&gt;
+  &lt;head&gt; &lt;red&gt; To Kill Buggs &lt;/red&gt; &lt;/head&gt;
+  &lt;line&gt; &lt;/line&gt;
+  &lt;p&gt;
+    Mix &lt;m&gt; Oil of Turpentine &lt;/m&gt; with
+    the &lt;m&gt; &lt;pl&gt; Neopolitan &lt;/pl&gt; Ointment &lt;/m&gt;, + smear
+    the Bedstead, + peel into the &lt;q&gt; ottebes &lt;/q&gt;
+    where the Buggs are + they will be
+    destroyed.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;red&gt; &lt;dbl&gt; &lt;/dbl&gt; &lt;/red&gt;
+
+&lt;div type = "recipe"&gt;
+  &lt;recNum&gt; &lt;brown&gt; 17 &lt;/brown&gt; &lt;/recNum&gt;
+  &lt;margin&gt;
+    &lt;brown&gt; To &lt;person&gt; &lt;q&gt; Colo le tterine &lt;/q&gt;
+    of the Artilery
+    at &lt;pl&gt; Gibralter &lt;/pl&gt; &lt;/person&gt;
+    &lt;q&gt; [Goent OZEH]&lt;/q&gt; &lt;/brown&gt;
+  &lt;/margin&gt;
+  &lt;head&gt; &lt;brown&gt; Pigment for Wood &lt;/brown&gt; &lt;/head&gt;
+  &lt;dbl&gt;&lt;/dbl&gt;
+  &lt;p&gt;
+    &lt;abr type = "recipe"&gt; Rx &lt;/abr&gt; &lt;m&gt; Pitch &lt;qt&gt; 10 tt &lt;/qt&gt; &lt;/m&gt; + &lt;m&gt; Tar &lt;qt&gt; tty &lt;/qt&gt; &lt;/m&gt; as much
+    &lt;margin&gt;
+      &lt;m&gt; Rosen &lt;qt&gt; tty+ &lt;/qt&gt; &lt;/m&gt;
+      &lt;m&gt; &lt;qt&gt; 1 Quart &lt;/qt&gt; &lt;q&gt; Fabuin &lt;/q&gt; Oil &lt;/m&gt;
+    &lt;/margin&gt;
+    &lt;m&gt; Grease or oil &lt;/m&gt; as will give it the
+    Consistence of Paint, melt these together
+  &lt;/p&gt;
+  &lt;page&gt; 44 &lt;/page&gt;
+  ...
+  ...
+  ...
+&lt;/div&gt;
+...
+...
+...
+&lt;/doc&gt;
+</code></pre></div></div>
+:ET

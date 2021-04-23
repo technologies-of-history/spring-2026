@@ -1,6 +1,4 @@
-I"C�<h2 id="how-do-we-tell-a-history-of-communications-technologies-with-technology">How do we tell a history of communications technologies with technology?</h2>
-
-<p>This blog features the research of students in <em>A History of Words: Technologies of
+I"�<p>This blog features the research of students in <em>A History of Words: Technologies of
 Communication from Cuneiform to Coding</em> (HUM 331) taught by Professor Melissa Reynolds in
 the Humanities Council and History Department at Princeton University in Spring 2021. Throughout the semester,
 students will be posting their research on archival materials held in Princeton Library’s
@@ -18,8 +16,266 @@ featuring their intermediate research, or toggle the menu at the top left to che
   
     <article class="post">
       <header class="post-header">
-      <h2 class="post-title"><a href="/Queer-Graduate-Caucus/">Creating Queer Safety On Campus</a></h2>
-      <h4>By Paul-Louis Biondi on March 31, 2021</h4>
+      <h2 class="post-title"><a href="/Disney/">Making Disney Celebrity</a></h2>
+      <h4>By Paul-Louis Biondi on April 22, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <h2 id="initial-thoughts">Initial Thoughts</h2>
+<p>For this project, I chose to go with Option B, looking at a specific era of film and television. I chose to look at Disney Studios specifically, rather than a specific genre, because of the <em>unique</em> influence that Disney has held over American youth, popular culture, and the creation of celebrity and stardom in the United States (and the world more widely as well), especially on Gen Z. For the project, I looked specifically at Disney-made film and television shows from 2001 to 2015. Because Disney Studios is so encompassing in the film and television industry, I focused on “Disney Originals” for the movies from this period and exlcuded cartoon and animated movies. For the sake of the project’s span, I omitted a some of the smaller Disney Originals from the period 2001-2015, basing it on the reported viewership from each movie’s premieres (Disney Originals all premiered on Disney channel rather than movie theaters). Having grown up as a part of the generation that lived with these movies and shows, I was interested in seeing how the network depicted the use of actors in the Disney Studios. In this way, I think the movie/television nodes are less about the actual project than the time period and the studio behind it. My hypothesis was that there would arise two main ideas in the network. Firstly, that the creation of celebrity was key for the development of Disney and Disney sought to create, rather than maintain, stardom. Thus, they would be responsible for the the creation of pop culture, but not be made to ensure it. Secondly, I also wanted to see how interconnected Disney Studios itself actually is. By looking at their actors and their projects, I hoped to see overlap, creating a distinct “community” of Disney actors.</p>
+
+<h2 id="the-network">The Network</h2>
+<p><img src="https://github.com/p-biondi/HUM-331-Princeton.github.io/blob/master/images/Cytoscape-Disney-Network.png?raw=true" alt="Disney Network" /></p>
+
+      </div>
+
+      <a href="/Disney/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Time-Network-Of-Letters/">Time network of letters</a></h2>
+      <h4>By Levi Blinder on April 21, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <p><a href="https://docs.google.com/spreadsheets/d/1QALEFpTRY5cKbKZkRepm6U9iEKpJOvoPthxA8qA_uh8/edit?usp=sharing">data set</a>
+(note that Sender column was used for source node, Recipient column for target node, and Date column for edge attribute, while the other two columns were not included)</p>
+
+<p>For each of three time periods (1500-1650, 1650-1800, and 1800-2000), I will show a view of the entire network as well as a closer view of a particularly interesting section of the network.</p>
+
+<p>All of these network pictures show a lot of data, so they are naturally a bit cluttered and it is hard to pick out individual connections. However, this does not mean they do not show qualitatively significant network features. Two such features that are worth looking at are:</p>
+<ul>
+  <li>The connections or lack thereof between components of the network, which can be observed from the broad view for each time period’s network.</li>
+  <li>The connections or lack thereof between nodes (in particular those that are connected to a ‘hub’ node with a large number of adjacent edges) with few adjacent edges, which can be observed from the closer view for each time period’s network.</li>
+</ul>
+
+<p>Broad view of letter network including letters from 1500-1650
+<img src="https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1500-1650Full.png?raw=true" alt="1500-1650 Full Network" /></p>
+
+<p>Close up view of letter network including letters from 1500-1650
+<img src="https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1500-1650Close.png?raw=true" alt="1500-1650 Close Network" /></p>
+
+<p>Broad view of letter network including letters from 1650-1800
+<img src="https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1650-1800Full.png?raw=true" alt="1650-1800 Full Network" /></p>
+
+<p>Close up view of letter network including letters from 1650-1800
+<img src="https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1650-1800Close.png?raw=true" alt="1650-1800 Close Network" /></p>
+
+<p>Broad view of letter network including letters from 1800-2000
+<img src="https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1800-2000Full.png?raw=true" alt="1800-2000 Full Network" /></p>
+
+<p>Close up view of letter network including letters from 1800-2000
+<img src="https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1800-2000Close.png?raw=true" alt="1800-2000 Close Network" /></p>
+
+<h3 id="how-did-you-go-about-formulating-a-research-question">How did you go about formulating a research question?</h3>
+
+<p>The first step for formulating a research question for me was to find data suitable to network analysis. So since we read about the republic of letters and discussed it in class, this network of letter sending/receiving stood out to me as a good candidate for research on using Cytoscape. Specifically, the site we looked at in class kept metadata on the origin and destination of the letters such that each letter could be easily translated into connections between location nodes in a social network.</p>
+
+<p>Unfortunately, I couldn’t figure out any easy way to scrape data from EMLO. Instead, I ended up using data from “correspSearch”, which is an online database of the metadata of scholarly editions of letters. The site seemed to be German with metadata collected from primarily german websites/databases, which might represent a skew towards more letters with origin or destination in Germany. (However, the data from EMLO – or any source – would also be skewed just in a different way, since there is always selection bias when the data isn’t 100% complete).</p>
+
+<p>Once I had figured out the data that I was using (letter metadata) and the form of the network (locations as nodes, letters as connections), I began to consider what research questions could be asked about this network. Some questions were implausible given the limitations of the data (for example, any question about how the letter’s theme/type related to any other variable – time, origin, etc. – was implausible since there was no theme/type metadata). Consequently, I focused on research questions that related to the metadata that was available.</p>
+
+<p>Specifically, there was metadata on the origin, destination, sender, receiver, and date of each letter. The date stood out to me as a particularly useful piece of information for network analysis since the connections were spread over a large time period. Especially in the context of this class, where we have been looking at the evolution of communication over time, comparing letter networks at different points in time seemed like a very interesting topic.</p>
+
+
+      </div>
+
+      <a href="/Time-Network-Of-Letters/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Networked-Dystopia/">Networked Dystopia - Exploring Setting in Dystopian Film</a></h2>
+      <h4>By Sophie Goldman on April 21, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <h3 id="what-is-the-role-of-setting-in-dystopian-movies">What is the role of setting in dystopian movies?</h3>
+
+<p>When considering movie genres for this assignment, I became curious about the patterns and trends in the settings of dystopian movies. In particular, I wanted to examine what types of settings were commonly seen in these types of movies and whether these settings reflected a real-world location. Often, dystopian movies reflect elements of human society and offer a criticism, warning, or other message about the future of life on Earth. Since these messages can explore threatening and alarming topics, I anticipated that dystopian movies would employ fictional locations to served as representations of life on Earth, rather than realistically establishing the movie in a particular location. However, I found that many of the movies that I analyzed take place in an explicitly familiar setting - whether on Earth, a particular country, or one city, these movies locate themselves in the audience’s world.</p>
+
+
+      </div>
+
+      <a href="/Networked-Dystopia/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Stream-of-First-Person-Consciousness/">Stream of First Person Consciousness - A Look at Three of William Faulkner's Works</a></h2>
+      <h4>By Savannah Pobre on April 19, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <h2 id="the-visualization-of-the-network">The Visualization of the Network</h2>
+<p><img src="https://github.com/savannahpobre/HUM-331-Princeton.github.io/blob/fa151131a8ab92f39b47c6b6078fcfc01e614a1a/_posts/faulkner%20network%20.png?raw=true" alt="faulkner network" /></p>
+
+<h2 id="the-background-work-highlighting-and-categorizing-first-and-third-person-word-usage-within-excerpts-of-the-chosen-works">The Background Work (highlighting and categorizing first and third person word usage within excerpts of the chosen works)</h2>
+<p>Linked <a href="https://docs.google.com/document/d/1PvXeatQ9DPIVw7LEv8VvZcHZXJkRJaYbV0TuJ4Cezhc/edit?usp=sharing">here</a>!</p>
+
+<h2 id="the-data-googleexcel-sheet">The Data (Google/Excel Sheet)</h2>
+<p>Linked <a href="https://drive.google.com/file/d/1X9oq2g-VBxgE891IEsixRIFtmHLHV81P/view?usp=sharing">here</a>!</p>
+
+<h2 id="the-reflection">The Reflection</h2>
+<p>When I went about formulating my research question I originally wanted to stick with Option B and form a network based on films and actors from the film franchise Star Wars. However after soon realizing the immensity of the process due to the over 300 cast members that ranged from varying roles throughout the sagas, I chose to opt for a question that I could draw my own conclusions from rather than strictly looking at what actors appeared in the nine films in their entirety. From this I began thinking broadly about what relationships within literature I wanted to explore and how I could visually create those comparisons using Option A for this assignment. Thinking of writing styles and word usage, I ended up landing on a few interesting articles about the psychology behind stream of consciousness writing style. Peaking at a few high school favorites such as Virginia Woolf, I decided to go with William Faulker’s work The Sound and The Fury because of how I could easily compare it with his other narratives Absalom, Absalom!, and As I Lay Dying. My research question in a broad sense became how could I accurately depict the usage of first and third person words within the first 500 words of each of the previously named Faulkner novels. I hypothesized that the stream of consciousness style would contain more first person words in comparison to other writing styles utilized by Faulkner. Here I made the impactful decision to stick to one author and trace the connectedness and comparisons from Faulkner’s three works, rather than from three different authors. This decision was ultimately the correct one because of how it allowed for an increase of internal validity from any conclusions I may draw from my finalized network. After using Cytoscape to visualize a network from my edge list, I could soon see exactly how prominent language in the first person was in his novel The Sound and the Fury in comparison to his two other works I chose.
+
+</p>
+
+      </div>
+
+      <a href="/Stream-of-First-Person-Consciousness/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Princeton-Departments-by-Distribution/">Princeton departments by distribution</a></h2>
+      <h4>By José Pablo Fernández García on April 19, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <p>For any Princeton University student going through the course selection process, it is very likely that one thought in the back of their head is the distribution requirements they must fulfill during their four years at Princeton. The <a href="https://ua.princeton.edu/contents/general-education-requirements">Undergraduate Announcement</a> states: “While each student will concentrate in a discipline, a broad exposure to other kinds of knowledge will enhance students’ ability to discern what questions can be answered through methods native to their own fields and what questions require other methods.” Therefore, during the 2018–2019 and 2019–2020 <a href="https://web.archive.org/web/20190315200449/https://ua.princeton.edu/contents/general-education-requirements">academic years</a>, students seeking an A.B. degree needed to take a certain number of courses that fell within each of seven distribution areas. While these distribution requirements may take on the shape of a checklist in the minds of students, they also offer a way to compare Princeton’s many academic departments and programs.</p>
+
+      </div>
+
+      <a href="/Princeton-Departments-by-Distribution/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/DailyPrinceTEIMarkup/">The Daily Princeton March 9th, 2001 TEI Markup</a></h2>
+      <h4>By Savannah Pobre on April  6, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <h2 id="the-document">The Document</h2>
+<p><a href="https://theprince.princeton.edu/princetonperiodicals/?a=d&amp;d=Princetonian20010309-01.1.1&amp;e=-------en-20--21--txt-txIN-advertisement-ILLUSTRATION-----">Daily Princetonian</a>, Volume 125, Number 26, 9 March 2001</p>
+
+<h2 id="tei-markup">TEI Markup</h2>
+<h3 id="the-daily-princetonian-header">The Daily Princetonian Header</h3>
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;ad/&gt;</span>
+<span class="nt">&lt;ad/&gt;</span>
+<span class="nt">&lt;ad/&gt;</span>
+<span class="nt">&lt;div1</span> <span class="na">type=</span><span class="s">"nameplate"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;pb/&gt;</span>
+<span class="nt">&lt;head&gt;&lt;i&gt;</span>THE DAILY<span class="nt">&lt;/i&gt;</span> PRINCETONIAN<span class="nt">&lt;/head&gt;</span>
+<span class="nt">&lt;ab&gt;&lt;num</span> <span class="na">type=</span><span class="s">"volume"</span> <span class="na">value=</span><span class="s">"CXXV No.26"</span><span class="nt">&gt;</span>Vol. CXXV, No.26<span class="nt">&lt;/num&gt;</span>
+<span class="nt">&lt;nm</span> <span class="na">type=</span><span class="s">"place"</span><span class="nt">&gt;</span>Princeton, New Jersey<span class="nt">&lt;/nm&gt;</span>,
+<span class="nt">&lt;date</span> <span class="na">value=</span><span class="s">"2001-03-01"</span><span class="nt">&gt;</span>Friday, March 9, 2001<span class="nt">&lt;/date&gt;</span>
+<span class="nt">&lt;date</span> <span class="na">value=</span><span class="s">"2001"</span><span class="nt">&gt;</span>copyright<span class="nt">&lt;/date&gt;</span>
+<span class="nt">&lt;num</span> <span class="na">type=</span><span class="s">"cost"</span> <span class="na">value=</span><span class="s">"30"</span><span class="nt">&gt;</span>30 cents<span class="nt">&lt;/num&gt;&lt;/ab&gt;</span>
+<span class="nt">&lt;/div1&gt;</span>
+</code></pre></div></div>
+
+
+      </div>
+
+      <a href="/DailyPrinceTEIMarkup/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Arts-and-Sciences-Recipe-Page/">Arts and sciences recipe page</a></h2>
+      <h4>By Levi Blinder on April  6, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <p><a href="https://fromthepage.com/upenn/kislak-center-recipe-books/arts-and-sciences-manuscript-chemistry/display/1185878">Link to original recipe</a></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;doc&gt;
+...
+...
+...
+&lt;div type = "recipe"&gt;
+  ...
+  ...
+  ...
+  &lt;page&gt;44&lt;/page&gt;
+  &lt;pageNum&gt;14&lt;/pageNum&gt;
+  &lt;p&gt;
+    it down with a &lt;tl&gt; String &lt;/tl&gt; as far as
+    the water, then fire the &lt;m&gt; Gun Powder &lt;/m&gt;
+    with a &lt;tl&gt; hot Tool &lt;/tl&gt;, + it will clean the
+    well of every noxious vapor.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;red&gt; &lt;dbl&gt; &lt;/dbl&gt; &lt;/red&gt;
+
+&lt;div type = "recipe"&gt;
+  &lt;recNum&gt; &lt;red&gt; 16 &lt;/red&gt; &lt;/recNum&gt;
+  &lt;head&gt; &lt;red&gt; To Kill Buggs &lt;/red&gt; &lt;/head&gt;
+  &lt;line&gt; &lt;/line&gt;
+  &lt;p&gt;
+    Mix &lt;m&gt; Oil of Turpentine &lt;/m&gt; with
+    the &lt;m&gt; &lt;pl&gt; Neopolitan &lt;/pl&gt; Ointment &lt;/m&gt;, + smear
+    the Bedstead, + peel into the &lt;q&gt; ottebes &lt;/q&gt;
+    where the Buggs are + they will be
+    destroyed.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;red&gt; &lt;dbl&gt; &lt;/dbl&gt; &lt;/red&gt;
+
+&lt;div type = "recipe"&gt;
+  &lt;recNum&gt; &lt;brown&gt; 17 &lt;/brown&gt; &lt;/recNum&gt;
+  &lt;margin&gt;
+    &lt;brown&gt; To &lt;person&gt; &lt;q&gt; Colo le tterine &lt;/q&gt;
+    of the Artilery
+    at &lt;pl&gt; Gibralter &lt;/pl&gt; &lt;/person&gt;
+    &lt;q&gt; [Goent OZEH]&lt;/q&gt; &lt;/brown&gt;
+  &lt;/margin&gt;
+  &lt;head&gt; &lt;brown&gt; Pigment for Wood &lt;/brown&gt; &lt;/head&gt;
+  &lt;dbl&gt;&lt;/dbl&gt;
+  &lt;p&gt;
+    &lt;abr type = "recipe"&gt; Rx &lt;/abr&gt; &lt;m&gt; Pitch &lt;qt&gt; 10 tt &lt;/qt&gt; &lt;/m&gt; + &lt;m&gt; Tar &lt;qt&gt; tty &lt;/qt&gt; &lt;/m&gt; as much
+    &lt;margin&gt;
+      &lt;m&gt; Rosen &lt;qt&gt; tty+ &lt;/qt&gt; &lt;/m&gt;
+      &lt;m&gt; &lt;qt&gt; 1 Quart &lt;/qt&gt; &lt;q&gt; Fabuin &lt;/q&gt; Oil &lt;/m&gt;
+    &lt;/margin&gt;
+    &lt;m&gt; Grease or oil &lt;/m&gt; as will give it the
+    Consistence of Paint, melt these together
+  &lt;/p&gt;
+  &lt;page&gt; 44 &lt;/page&gt;
+  ...
+  ...
+  ...
+&lt;/div&gt;
+...
+...
+...
+&lt;/doc&gt;
+</code></pre></div></div>
+
+      </div>
+
+      <a href="/Arts-and-Sciences-Recipe-Page/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Just-Chilling-at-the-Rapids/">Just Chilling at the Rapids</a></h2>
+      <h4>By Hope Perry on April  4, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <p>I was, admittedly, a bit nervous to complete this assignment because it involves
+a little more code than I’m used to as a humanities concentrator. However, I soon
+realized that the XML and TEI were not to be feared and I set about going through
+<a href="https://dpul.princeton.edu/pudl0017/catalog/qr46r491g">Thomas Adam’s Journal</a> to find a page that I could tag.
+When I came across this page, which is embedded below, I decided that it was perfect
+for my purposes. I wanted a page with a few different entries, so that I would have some
+variety.</p>
+
+      </div>
+
+      <a href="/Just-Chilling-at-the-Rapids/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/QueerGraduateCaucus/">Creating Queer Safety On Campus</a></h2>
+      <h4>By Paul-Louis Biondi on April  2, 2021</h4>
       </header>
 
       <div class="entry">
@@ -31,273 +287,32 @@ featuring their intermediate research, or toggle the menu at the top left to che
 
 <p>Because this document is born digital, there is no picture of it attached to the post.</p>
 
-<h2 id="the-queer-graduate-caucus-open-letter-to-the-administration">The Queer Graduate Caucus’ Open Letter to the Administration</h2>
-
-<pre><code class="language-XML">
-&lt;XML&gt;
-	&lt;openletter&gt;
-		&lt;addressed&gt;To whom it may concern&lt;/addressed&gt; –
-
-		&lt;intro&gt;
-			&lt;sit&gt;In light of the larger discussions on the topic of
-				&lt;iss&gt;diversity&lt;/iss&gt; and
-				&lt;iss&gt;inclusion&lt;/iss&gt; which have been happening on
-				&lt;place&gt;campus&lt;/place&gt;
-				&lt;time&gt;of late&lt;/time&gt;
-			&lt;/sit&gt;, the
-			&lt;org&gt;Queer Graduate Caucus&lt;/org&gt; would like to highlight some concerns relating to
-			&lt;comm&gt;LGBTQIA+
-				&lt;body&gt;graduate students&lt;/body&gt;
-			&lt;/comm&gt;.
-			&lt;time&gt;Last year&lt;/time&gt; several of our
-			&lt;position&gt;officers&lt;/position&gt; were included in
-			&lt;dialogue&gt;panel discussions and conversations&lt;/dialogue&gt; with
-			&lt;position&gt;administrators&lt;/position&gt; and some of these issues were raised, but as we have not yet received a
-			&lt;dialogue&gt; response&lt;/dialogue&gt; from the
-			&lt;body&gt;administration&lt;/body&gt; about their disposition we consider it worthwhile to reiterate them.
-
-		&lt;/intro&gt;
-		&lt;demand1&gt;
-			&lt;sit&gt;
-				&lt;time&gt;After third year&lt;/time&gt;,
-
-				&lt;body&gt;
-					&lt;persons&gt;graduate students&lt;/persons&gt;
-				&lt;/body&gt; are no longer guaranteed
-
-				&lt;aid&gt;on-campus housing&lt;/aid&gt;
-			&lt;/sit&gt;. The most common destinations for these individuals are
-
-			&lt;place&gt;Philadelphia&lt;/place&gt; and
-
-			&lt;place&gt; New York City&lt;/place&gt;. In the state of
-
-			&lt;place&gt;Pennsylvania&lt;/place&gt;, there are
-
-			&lt;iss&gt;no
-
-				&lt;authority&gt;laws&lt;/authority&gt; protecting against discrimination on the basis of
-
-				&lt;identity&gt;sexual orientation&lt;/identity&gt; or
-
-				&lt;identity&gt;gender identity&lt;/identity&gt;
-			&lt;/iss&gt;. This includes
-
-			&lt;iss&gt;housing discrimination&lt;/iss&gt;. Even though the
-
-			&lt;place&gt;city of New York&lt;/place&gt; has
-
-			&lt;authority&gt;ordinances&lt;/authority&gt; aiming to prevent this, the search for apartments is fraught with additional risks for
-
-			&lt;comm&gt;LGBTQIA+ people&lt;/comm&gt;;
-
-			&lt;iss&gt;there is a constant need to screen potential
-
-				&lt;persons&gt;roommates&lt;/persons&gt; and
-
-				&lt;persons&gt;landlords&lt;/persons&gt; for
-
-				&lt;marg&gt;homophobic&lt;/marg&gt; or
-
-				&lt;marg&gt;transphobic&lt;/marg&gt; attitudes in order to avoid not only discrimination but also harassment
-
-			&lt;/iss&gt;. Additionally,
-
-			&lt;iss&gt;
-				&lt;comm&gt;
-					&lt;body&gt;graduate students&lt;/body&gt; of color
-
-				&lt;/comm&gt; must negotiate around
-
-				&lt;marg&gt;racism&lt;/marg&gt; during housing searches
-
-			&lt;/iss&gt;. This not only places a considerable burden on
-
-			&lt;body&gt;graduate students&lt;/body&gt; in the form of the
-
-			&lt;resource&gt;time&lt;/resource&gt; involved in such housing searches, but also restricts their ability to find
-
-			&lt;resource&gt;affordable&lt;/resource&gt; housing off campus. Therefore, we consider it paramount that the
-
-			&lt;institution&gt;Graduate School&lt;/institution&gt; and the
-
-			&lt;body&gt;
-				&lt;institution&gt;University's&lt;/institution&gt; housing administration
-
-			&lt;/body&gt; renew their commitment to providing
-
-			&lt;resource&gt;affordable&lt;/resource&gt;
-			&lt;aid&gt;on-campus housing&lt;/aid&gt; sufficient to meet
-
-			&lt;body&gt;graduate student&lt;/body&gt; demand.
-
-			&lt;aid&gt;Information&lt;/aid&gt; about housing and housing options should also be more effectively distributed to new
-
-			&lt;body&gt;graduate students&lt;/body&gt;.
-
-
-		&lt;/demand1&gt;
-		&lt;demand1&gt;
-			&lt;sit&gt;
-				&lt;time&gt;After third year&lt;/time&gt;,
-				&lt;body&gt;
-					&lt;persons&gt;graduate students&lt;/persons&gt;
-				&lt;/body&gt; are no longer guaranteed
-				&lt;aid&gt;on-campus housing&lt;/aid&gt;
-			&lt;/sit&gt;. The most common destinations for these individuals are
-			&lt;place&gt;Philadelphia&lt;/place&gt; and
-			&lt;place&gt; New York City&lt;/place&gt;. In the state of
-			&lt;place&gt;Pennsylvania&lt;/place&gt;, there are
-			&lt;iss&gt;no
-				&lt;authority&gt;laws&lt;/authority&gt; protecting against discrimination on the basis of
-				&lt;identity&gt;sexual orientation&lt;/identity&gt; or
-				&lt;identity&gt;gender identity&lt;/identity&gt;
-			&lt;/iss&gt;. This includes
-			&lt;iss&gt;housing discrimination&lt;/iss&gt;. Even though the
-			&lt;place&gt;city of New York&lt;/place&gt; has
-			&lt;authority&gt;ordinances&lt;/authority&gt; aiming to prevent this, the search for apartments is fraught with additional risks for
-			&lt;comm&gt;LGBTQIA+ people&lt;/comm&gt;;
-			&lt;iss&gt;there is a constant need to screen potential
-				&lt;persons&gt;roommates&lt;/persons&gt; and
-				&lt;persons&gt;landlords&lt;/persons&gt; for
-				&lt;marg&gt;homophobic&lt;/marg&gt; or
-				&lt;marg&gt;transphobic&lt;/marg&gt; attitudes in order to avoid not only discrimination but also harassment
-			&lt;/iss&gt;. Additionally,
-			&lt;iss&gt;
-				&lt;comm&gt;
-					&lt;body&gt;graduate students&lt;/body&gt; of color
-				&lt;/comm&gt; must negotiate around
-				&lt;marg&gt;racism&lt;/marg&gt; during housing searches
-			&lt;/iss&gt;. This not only places a considerable burden on
-			&lt;body&gt;graduate students&lt;/body&gt; in the form of the
-			&lt;resource&gt;time&lt;/resource&gt; involved in such housing searches, but also restricts their ability to find
-			&lt;resource&gt;affordable&lt;/resource&gt; housing off campus. Therefore, we consider it paramount that the
-			&lt;institution&gt;Graduate School&lt;/institution&gt; and the
-			&lt;body&gt;
-				&lt;institution&gt;University's&lt;/institution&gt; housing administration
-			&lt;/body&gt; renew their commitment to providing
-			&lt;resource&gt;affordable&lt;/resource&gt;
-			&lt;aid&gt;on-campus housing&lt;/aid&gt; sufficient to meet
-			&lt;body&gt;graduate student&lt;/body&gt; demand.
-			&lt;aid&gt;Information&lt;/aid&gt; about housing and housing options should also be more effectively distributed to new
-			&lt;body&gt;graduate students&lt;/body&gt;.
-
-		&lt;/demand1&gt;
-		&lt;demand2&gt;
-			&lt;aid&gt;
-				&lt;institution&gt;Princeton's&lt;/institution&gt; Student Health Plan
-			&lt;/aid&gt; is admirable in that it allows for coverage of several medical options for
-			&lt;comm&gt;
-				&lt;persons&gt;transgender students&lt;/persons&gt;
-			&lt;/comm&gt;. However, the
-			&lt;iss&gt;
-				&lt;authority&gt;official policy&lt;/authority&gt; arbitrarily excludes certain procedures on the grounds of their being "cosmetic" without providing any rationale for the distinction
-			&lt;/iss&gt;. This
-			&lt;authority&gt;policy&lt;/authority&gt; is rooted in
-			&lt;marg&gt;cissexism&lt;/marg&gt; and should be revised with the participation of
-			&lt;comm&gt;
-				&lt;persons&gt;transgender students&lt;/persons&gt;
-			&lt;/comm&gt; and
-			&lt;authority&gt;professionals expert in transgender medicine&lt;/authority&gt;.
-
-		&lt;/demand2&gt;
-		&lt;demand3&gt;
-            This organization, the
-			&lt;org&gt;Queer Graduate Caucus&lt;/org&gt;, currently has
-			&lt;iss&gt;no
-				&lt;resource&gt;annual budget&lt;/resource&gt;
-			&lt;/iss&gt;. In order to hold even small events, we must go through the drawn-out process of requesting
-			&lt;aid&gt;co-sponsorship&lt;/aid&gt; and
-			&lt;aid&gt;funds&lt;/aid&gt; from several other organizations,
-			&lt;body&gt;programs&lt;/body&gt;, and
-			&lt;body&gt;departments&lt;/body&gt;. This makes
-			&lt;iss&gt;the task of event organization very unwieldy and unreliable&lt;/iss&gt;. With the generosity and support of many
-			&lt;position&gt;administrators&lt;/position&gt; and
-			&lt;position&gt;fellow
-				&lt;body&gt;student&lt;/body&gt; leaders
-			&lt;/position&gt;, we have been able to hold significant, well-attended events such as last Fall's
-			&lt;event&gt;"Transitioning History with Susan Stryker,"&lt;/event&gt; but only with exceptional
-			&lt;resource&gt;effort&lt;/resource&gt; and
-			&lt;resource&gt;time&lt;/resource&gt; investment by our
-			&lt;position&gt;officers&lt;/position&gt;. In
-			&lt;authority&gt;
-				&lt;position&gt;President&lt;/position&gt; Eisgruber's
-			&lt;/authority&gt; response to the
-			&lt;org&gt;Task Force for Diversity and Inclusion&lt;/org&gt;, he wrote that the
-			&lt;comm&gt;
-				&lt;institution&gt;Princeton University&lt;/institution&gt; community
-			&lt;/comm&gt; could anticipate an
-			&lt;quote&gt;"increase in
-				&lt;aid&gt;funding&lt;/aid&gt; for
-				&lt;body&gt;student&lt;/body&gt; initiatives, including those housed in the
-				&lt;body&gt;Fields Center&lt;/body&gt;,
-				&lt;body&gt;Women's Center&lt;/body&gt;, and
-				&lt;body&gt;LGBT Center&lt;/body&gt;, as well as for
-				&lt;comm&gt;identity-based student&lt;/comm&gt; organizations."
-			&lt;/quote&gt; We humbly request that this include our organization.
-
-		&lt;/demand3&gt;
-		&lt;demand4&gt;
-            Finally, we would like to emphasize the importance of including
-			&lt;body&gt;graduate students&lt;/body&gt; (as well as
-			&lt;bod&gt;undergraduate students
-			&lt;/body&gt;) in the decision-making process surrounding issues which directly affect our lives. Regular
-			&lt;aid&gt;communication&lt;/aid&gt; between
-			&lt;position&gt;administrators&lt;/position&gt; and
-			&lt;position&gt;
-				&lt;body&gt;graduate student &lt;/body&gt;leaders
-			&lt;/position&gt; would facilitate this, and would enhance the
-			&lt;comm&gt;campus community&lt;/comm&gt;.
-
-		&lt;/demand4&gt;
-		&lt;conclusion&gt; We look forward to further discussion with you on these matters. &lt;/conclusion&gt;
-		&lt;signature&gt;
-			&lt;org&gt;The Queer Graduate Caucus&lt;/org&gt;
-            Ariana Myers,
-			&lt;position&gt;President&lt;/position&gt;
-            David Peterson,
-			&lt;position&gt;Treasurer&lt;/position&gt;
-		&lt;/signature&gt;
-	&lt;/openletter&gt;
-&lt;/XML&gt;
-
-</code></pre>
-
-<h2 id="tags">Tags</h2>
-
-<p>For my tags, I focused on three main types: primary actors (in the sense of who is involved or addressed), the issues being addressed (about diversity and inclusion), and the structure of the document.</p>
-
-<p>Primary actors:</p>
-<ul>
-  <li><em>Body</em> calls attention to organizational structures of people that make up the institution and other organizations; bodies indicate dialogue and engagement</li>
-  <li><em>Institution</em> is used to refer to the structural power (Princeton in this case), which tends to be unresponsive (as outlined at the beginning of the letter)</li>
-  <li><em>Organizations</em> indicates groups that seek to address the problems identified (activist and advocacy groups)</li>
-  <li><em>Community</em> shows the people being affected by these policies, introducing a human element to this otherwise structural interaction (organization to institution)</li>
-  <li><em>Position</em> is a more general tag to indicate some level of power within either an organization, body, or institution; also serves to humanize</li>
-</ul>
-
-<p>Issues:</p>
-<ul>
-  <li><em>Situation</em> is used to indicate the present situation at Princeton with regards to administrative responses</li>
-  <li><em>Issue</em> delineates the issues that face queer graduate students</li>
-  <li><em>Marginalization</em> &lt;/marg&gt; denotes when key terms for sources of discrimination are used (racism, homophobia, etc.)</li>
-  <li><em>Authority</em> confers a source of power from which these issues emanate and/or can be addressed</li>
-</ul>
-
-<p>Physical:</p>
-<ul>
-  <li><em>Introduction</em> outlines the past action in regards to the issues</li>
-  <li><em>Demands</em> that the Queer Graduate Caucus is making to Princeton/s administration; there are 4 in total and all relate to queer student wellness (health, housing, representation, spaces)</li>
-  <li><em>Signature</em> gives credit, and a name, to the organization and leaders sponsoring</li>
-</ul>
-
-<h2 id="source">Source</h2>
-
-<p>To find the letter by the Queer Graduate Caucus, visit the Princeton University Archives <a href="https://findingaids.princeton.edu/catalog/AC468">Queer Graduate Caucus Records, 2015-2017</a>. There, you can also find more of their administrative records as well as an archive of their events from that time period.</p>
 
       </div>
 
-      <a href="/Queer-Graduate-Caucus/" class="read-more">Read More</a>
+      <a href="/QueerGraduateCaucus/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Activism-Poster/">Activism Poster</a></h2>
+      <h4>By Amna Amin on April  2, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <h2 id="explanation-of-thought-process">Explanation of Thought Process</h2>
+
+<p>The document that I am coding is an image used to advertise an event from Muslim Student Activists. This document is interesting and potentially useful to historians that want to note what topics student activists focused on and how they advertised events. Thus, the aspects of the document that I want to preserve for researchers is noting what titles are used, how information is presented (in forms of questions or demands for instance), where and when these events take place, and images used on the poster.</p>
+
+<p>Based on the elements I want to document, I want to note the relative size and importance of different elements of the text. For instance, the title can be noted using markup codes like <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code>. Additionally, I want to note the group’s hosting so code that includes elements like <code class="language-plaintext highlighter-rouge">&lt;orgName&gt;</code> were good markup codes to use. Overall, I also used tags like question to indicate that questions were being asked, image for an image being shown, date to show a date was given for the event, and location to indicate the physical space the event was held in.</p>
+
+<p>These tags made me consider how to structure the text and the hierarchy I wanted to present. I decided to make the parent tag called <code class="language-plaintext highlighter-rouge">&lt;poster&gt;</code> to indicate that all the material within was displayed as a poster meant to advertise to people. The other elements I treated as siblings to each other since they more so denoted changes in relative importance and different parts of the same poster rather than headers or parents. For instance, I used the tags <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;subhead&gt;</code>, and <code class="language-plaintext highlighter-rouge">&lt;subhead1&gt;</code> to indicate that different parts of the poster were emphasized more than others through font sizes, boldness, etc.</p>
+
+<p>Some questions that I had about markup while going through this exercise was how to address images within a text. I was not sure if I should just mention that there was an image or offset the image in a tag and then describe what the image was. In general, I was also not sure if the textual structure I used was appropriate and if there was a better one to consider for advertisements and posters.</p>
+
+      </div>
+
+      <a href="/Activism-Poster/" class="read-more">Read More</a>
     </article>
   
     <article class="post">
@@ -446,6 +461,27 @@ featuring their intermediate research, or toggle the menu at the top left to che
       </div>
 
       <a href="/Early-Board-Games-in-Ancient-Europe-and-Asia/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+      <header class="post-header">
+      <h2 class="post-title"><a href="/Activism-and-Inclusion-at-Princeton-University/">Activism and Inclusion at Princeton University</a></h2>
+      <h4>By Amna Amin on March  8, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <h1 id="motivation-for-the-map">Motivation for the Map</h1>
+
+<ol>
+  <li>What historical narrative are you trying to express?</li>
+</ol>
+
+<p>The historical narrative that I am attempting to express is that of the rich history of activism and attempts of inclusion at Princeton University. I believe that inclusion and activism are intertwined. When a community has a greater focus on inclusion, it is forced to look in more detail at its potential faults and faults of the world around it. For instance, as observed in the story map, the inclusion of people of color and women at university changed how the community viewed racism and sexism. As a result, more activists demonstrations were made in order to promote anti-racism and anti-sexism. This mindset of questioning brought on by inclusion can be applied to other issues as well. For instance, Princeton had anti-war protests during the Vietnam war. In my opinion, this form of activism did not just appear coincidentally at a time when women and people of color were entering the community. Rather, their entrance helped to make people question assumptions they held and institutions more broadly.</p>
+
+
+      </div>
+
+      <a href="/Activism-and-Inclusion-at-Princeton-University/" class="read-more">Read More</a>
     </article>
   
     <article class="post">

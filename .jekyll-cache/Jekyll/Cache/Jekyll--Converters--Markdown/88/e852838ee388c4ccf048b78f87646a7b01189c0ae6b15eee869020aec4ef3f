@@ -1,0 +1,100 @@
+I"F<p>I was, admittedly, a bit nervous to complete this assignment because it involves
+a little more code than I’m used to as a humanities concentrator. However, I soon
+realized that the XML and TEI were not to be feared and I set about going through
+<a href="https://dpul.princeton.edu/pudl0017/catalog/qr46r491g">Thomas Adam’s Journal</a> to find a page that I could tag.
+When I came across this page, which is embedded below, I decided that it was perfect
+for my purposes. I wanted a page with a few different entries, so that I would have some
+variety.</p>
+
+<p><img src="https://iiif-cloud.princeton.edu/iiif/2/4e%2Fde%2F53%2F4ede5376dcc5461f9d9e4f4367fe19e9%2Fintermediate_file/full/1000,/0/default.jpg" alt="Journal Page 10" width="500px" /></p>
+
+<p>(via Princeton University Library Special Collections, Western Americana
+Collection: “Journal,” Identifier:ark:/88435/qr46r491g)</p>
+
+<p>When creating my TEI hierarchy, I knew that I wanted to tag location names and
+distances traveled because these details are especially relevant to the topics of
+westward travel and emigration in the 19th-century United States. I also wanted to
+tag geography; land marks and physical features of the terrain that Thomas Adams
+might not provide names for, but that one might be able to decipher in the context
+of the named places he describes. Since my primary focus was making the data useful for researchers curious
+about the conditions of travel westward during this period, I also chose to tag food, weather, and tools,
+since these are all things about the journey that a researcher may want to know,
+since they reveal information about the wealth of the travelers and the general
+conditions of their journey. There were also two words I was unsure of, so I
+noted that in my TEI so that researchers could examine those more closely in order
+to come to their own conclusions. Thomas Adams also defined a term, so I chose
+to tag that as well, since he does that many times throughout the journal, so if
+I chose to tag more of the source in the future, it would be a good thing to have
+in my hierarchy.</p>
+
+<p>Since my source is a journal page, I wanted to make sure that the paragraph and
+section divisions I used reflected that textual structure, so I created paragraph
+and division breaks in accordance with where they occur in the journal.
+One of the more difficult things about this assignment was making sure that all
+of my elements were in the proper order; I had to do a good bit of tweaking at
+the end to make sure divisions came before paragraph breaks.</p>
+
+<p>I’m also glad I chose these entries because I think that the first one in particular
+is rather funny. They showcase the character of the author as well as providing
+information to researchers. As our class approaches the end of the semester, I also
+think this particular section was a good choice as preparation for the final project.
+I know that I definitely want to use this source to create a digital tool, and
+doing this work not only helped me learn a new skill, but also allowed me to become
+more familiar with the handwriting of Thomas Adams (save those two pesky words which
+I could not make out). I hope that the code has the potential to be useful as I intended
+it to be. See you in the next post!</p>
+
+<h3 id="the-code">The Code</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;journal&gt;
+	&lt;image url= "https://iiif-cloud.princeton.edu/iiif/2/4e%2Fde%2F53%2F4ede5376dcc5461f9d9e4f4367fe19e9%2Fintermediate_file/full/1000,/0/default.jpg"&gt;&lt;/image&gt;
+	&lt;div&gt;
+		&lt;p&gt;
+			&lt;head&gt;
+				&lt;date when= "Sunday 1853-06-05"&gt;June 5th Sunday&lt;/date&gt;.
+			&lt;/head&gt;	The &lt;time&gt;morning&lt;/time&gt; was &lt;weather&gt;clear&lt;/weather&gt;;
+      but &lt;weather&gt;rain with thunder&lt;/weather&gt; after our frugal dinner of
+      &lt;food&gt;hard bread, pork, and, alas; that it should be so! a pot of very badly burnt beans&lt;/food&gt;.
+      The grass is good, and the day’s rest will do our animals good, altho’
+      the sand flies and mosquitoes are very troublesome to the mules, we help
+      them all we can by greasing with pork fat the more &lt;unclear&gt;xxx&lt;/unclear&gt;
+      and tender &lt;unclear&gt;xxx&lt;/unclear&gt;.
+&lt;/p&gt;
+	&lt;/div&gt;
+
+&lt;div&gt;
+		&lt;p&gt;
+	&lt;head&gt;
+				&lt;date when= "Monday 1853-06-06"&gt;6th Monday&lt;/date&gt;.
+	&lt;/head&gt;		Harnessed up early + having made, per &lt;tool&gt;odometer&lt;/tool&gt;,
+      &lt;distance&gt;twenty three miles&lt;/distance&gt;, are encamped on the border of a
+      &lt;place&gt;&lt;geography&gt;small lake&lt;/geography&gt;&lt;/place&gt;, a &lt;distance&gt;short distance from The Trail&lt;/distance&gt;,
+      in a &lt;geography&gt;small grove of scrub oak&lt;/geography&gt;, called an
+      &lt;term&gt;Oak Opening&lt;/term&gt;. A lazy portion of the march was over
+    &lt;place&gt;&lt;geography&gt;open and rolling prairies&lt;/geography&gt;&lt;/place&gt;.
+
+		&lt;/p&gt;
+	&lt;/div&gt;
+	&lt;div&gt;
+		&lt;p&gt;
+			&lt;head&gt;
+				&lt;date when= "Tuesday 1853-06-07"&gt;7th Tuesday&lt;/date&gt;.
+			&lt;/head&gt;		Arrived &lt;time&gt;Early in the afternoon&lt;/time&gt; at the
+      &lt;place&gt;&lt;name type="location"&gt;“Sauk Rapids”&lt;/name&gt;&lt;/place&gt;, having during our whole march from
+      &lt;place&gt;&lt;name type="location"&gt;St. Paul&lt;/name&gt;&lt;/place&gt;, followed the general Course ofthe
+      &lt;place&gt;&lt;name type="river"&gt;Mississippi&lt;/name&gt;&lt;/place&gt;. Camped a &lt;distance&gt;short distance&lt;/distance&gt;
+      above &lt;name type="location"&gt;The house of &lt;name type="person"&gt;Mr. Russel&lt;/name&gt;&lt;/name&gt;,
+      who lives here, at the point where we will cross The River and leave civilization behind us.
+      The river &lt;place&gt;&lt;geography&gt;here is about 800 ft. across and sufficiently deep&lt;/geography&gt;&lt;/place&gt;,
+      even at the present low stage of water, to swim the horses nearly all the over.
+		&lt;/p&gt;
+		&lt;p&gt; Moreover being within the portion called &lt;name type="location"&gt;“Sauk Rapids”&lt;/name&gt; the current is somewhat swift.
+&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/journal&gt;
+
+</code></pre></div></div>
+
+<p><em>The title of this post is derived from the content of the journal entry and
+this <a href="https://www.youtube.com/watch?v=vbcc8x7j1Lg">2016 viral video</a>.</em></p>
+:ET
