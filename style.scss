@@ -34,7 +34,7 @@ body {
 .container {
   margin: 0px auto;
   max-width: 900px;
-  padding: 10px;
+  padding: 20px;
   width: 100%
 }
 
@@ -172,10 +172,25 @@ img {
 .banner-container {
   display: block;
   width: 100%;
-  margin: 0px 0px 20px 0px;
+  margin: 0px 0px -20px 0px;
+
+  @include mobile {
+    visibility: hidden;
+    margin: -40px 0px 0px 0px;
+  }
 }
 
+.mobile-banner {
+  visibility: hidden;
+  margin: -300px auto;
 
+  @include mobile {
+    visibility: visible;
+    margin: -100px auto 20px auto;
+
+  }
+
+}
 
 
 //
