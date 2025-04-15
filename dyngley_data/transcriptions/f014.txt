@@ -1,0 +1,10 @@
+<pb facs="#f014"/>
+			<div>
+				<head>
+					<title select="#rs-ail">for the ache of <rs>disease in the raynes</rs> of the bakke</title>
+				</head>
+				<p>Take a <measure>quarter of yard</measure> of redde scarlett &amp; stycche therto the woll of a blakke shepe thatt growyth apon the brest and then take pouder of [?]aunders &amp; 
+				strew over the sayd woll &amp; also pouder of lycoras and after that don to over spryngyll the same with oyle of oylyff and that plastur shall restore nature. 
+				And ease the pacient of his disease so it be layed to his raynes &amp; <measure>every wyke</measure> the same plastre to be renewed with same pouder &amp; oyle. 
+				And so to use it till he be hoole &amp;c.</p>
+			</div>

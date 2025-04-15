@@ -1,0 +1,12 @@
+<pb facs="#f010"/>
+			<div>
+				<head>
+					<title>Divers receits.</title>
+				</head>
+				<head>
+					<title>De urinis</title>
+				</head>
+				<head>
+					<title>De signis zodiaci &amp;c</title>
+				</head>
+			</div>

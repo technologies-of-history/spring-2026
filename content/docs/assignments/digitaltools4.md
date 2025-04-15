@@ -2,46 +2,54 @@
 layout: page
 bookTOC: false
 draft: true
-title: Visualizing a Network with Cytoscape
+title: Digital Tools 4
 ---
+# Turning texts into data with XML and EditionCrafter
+As you know from class, XML is a metalanguage (a language used to describe or markup another language) used in order to process and store texts in digital format. Markup languages are valuable as means of helping digital archivists and instructional technologists do two things: first, markup creates a rich data set from the text in question which can then be converted into a number of formats; second, markup encodes how a particular text should be presented on a webpage, digital publication, data set, etc. Markup languages thus guide our interpretations of those texts. Considerations like spacing, bolding, and headings are all aspects of the markup process—which is often also referred to as “encoding.” Marking up a document in XML is a matter of directing a person as to how the manuscript’s content should be presented and interpreted.
 
-As with the previous three Digital Tools Assignments, your task is to demonstrate your mastery of social network analysis using [Cytoscape](https://cytoscape.org/). This assignment has six discrete parts.
+For this assignment, you will select a Middle English medical recipe from [Trinity College Cambridge MS O.8.35](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35) in order to create your own TEI markup.
 
-## Overview of Steps:
+## Step 1: Document Analysis:
 
-1. Formulating a research question that can be investigated by creating an edge list and network graph.
-2. Generating and organizing your data in a Google Sheet.
-3. Clean your data using OpenRefine.
-4. Generating a network visualization using Cytoscape.
-5. Change the layout and style of your network to suit the information you are representing.
-6. Reflecting on your process and analyzing your results in a blog post (4-5 paragraphs).
+1. What about the format of the document would you like to make legible in a digital representation? Does your chosen document have a front and back? Paragraphs or lines of poetry? Dialogue? Lists? Images?
+2. What are the elements (content) of the text that you'd like to make legible as data? Are there different languages? Bold text? Emphasized text? Place names or people's names? You can refer to the glossary of official TEI elements [here](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html), or you can review the basic TEI tags in the [Basic Tagging tutorial](https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/basic_encoding/basic_encoding_tutorial_00.xhtml) from the Women Writer's Project.
+3. Write your TEI schema so that you have a root and elements nested within that root, i.e. `<div>`, `<head>`, `<text>`, `<image>`, `<persName>`, etc.
+Strive for at least 5 different elements or attributes that capture the basic structure and content of the text.
 
-Before you begin, review Miriam Posner’s [Cytoscape glossary](https://github.com/miriamposner/network_analysis_workshop/blob/master/social-network-glossary.md), which defines key terms that you will encounter as you navigate the platform.
+## TEI Markup in Markdown:
 
-## Step 1: Formulating a Research Question and Structuring Your Data
+1. In your text editor, create an .md file to compose your blog post with TEI mark-up. Remember that you'll want your mark-up to show up as code on our website, which means you'll need to use the appropriate Markdown syntax to set off your code from the rest of your blog post. (Hint: bracket your markup code with triple ticks at the start and at the end. You can always refer back to the [Getting Started with Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown) lesson you completed at the start of the semester.)
+2. Encode the body of the text.
+3. Copy and paste your TEI into [Code Beautify](https://codebeautify.org/xmlvalidator) if you'd like to check for open tags and broken elements.
 
-The most important thing to understand about Cytoscape is that you need to structure your data in two-column format, called an “edge list.” Column A and Column B should indicate a consistent relationship (for example, in the image below, the actors listed in Column A appear in the films listed in Column B). Below, you will notice that Option B walks you through performing the assignment using data related to films and actors, but you may use any two-column format you wish for this assignment.
+## Explain yourself:
 
-![Sample edge list in Excel]({{ site.baseurl }}/images/Edge List.png){:width="500px" .center-image}
+Now in the same .md file, write a 4-5 paragraph blog post explaining how you developed your TEI hierarchy:
 
-**Option A:** Create an edge list and network graph based on a consistent relationship between any two entities that you believe are connected in a meaningful way. Be sure to specify the relationship you are exploring in your write-up.
+- What aspects of the document do I want to tag for a researcher?
+- How can I categorize this document? What markup codes will be useful?
+- What textual structure seems appropriate? Consider the hierarchy of your tags.
+- What questions about markup emerged throughout the process?
 
-**Option B:** The above screenshot of an edge list shows how to structure data for a visualization showing the connectedness between actors and films from the silent era of American race film. Select another genre or era of film and create an Edge list and network graph on the basis of this model.
+## Submission:
 
-## Step 2: Importing Your Data
+You'll upload your post to a new branch in our class repository just like you did last time. Name your new branch **yourname-XML** and upload your post into the **_posts** folder. Finish by submitting a **pull request** to the **_master** branch of our class repository.
 
-1. After you create your edge list, clean your data using [OpenRefine](https://openrefine.org/) and import your data into Cytoscape.
-2. Remember to specify Sources and Targets, and to tell Cytoscape to analyze the network (it won’t do it automatically!).
-3. Lastly, play around with layout and style (color, size, border width, etc.) and choose a layout that best tells a narrative about the relationship you are exploring.
-4. Embed your network analysis graphic into your blog post by saving the image to your personal GitHub repository. Also be sure to include a link to your Google Sheet with your original data set.
+## An example of the TEI markup used in the Making and Knowing digital critical edition that we looked at in class:
 
-## Step 3: Explain Yourself
+__Sample #1: A Markup of a Recipe featured in Secrets of Craft and Nature:__
 
-1. How did you go about formulating a research question?
-2. Which nodes or edges of the network seem most significant for your research topic?
-3. What narrative does your network express?
-4. Does anything surprise you about the network?
+```xml
+<page>040r</page>
+<image>http://gallica.bnf.fr/ark:/12148/btv1b10500001g/f85.image</image>
 
-## Step 4: Submission
+<div>
 
-Once again, you're going to submit your post in a new branch in our class repository that you will creat and name: **yourname-cytoscape**. Finish by submitting a pull request to the **_master** branch of our class repository.
+<id>p040r_3</id>
+
+<head><m>Vinegar</m></head>
+
+<ab>One takes for granted that <del><fr>jec</fr></del> heat red-hot the <m>mineral salt</m> that looks like <m>marble</m> & that is called in <pl>Catalonia</pl> & at the border of <pl>Spain</pl> <m><pl>Cardona</pl> salt</m>, & throwing it <del>in the</del> red hot or quite hot in <m>wine</m>, it turns it into very good <m>vinegar</m>. Some make it with <m>water</m> poured on pomace soured after being pressed by <pro>grape pickers</pro>, but it will not keep & spoils in heat & thunder storms.</ab>
+
+</div>
+```
