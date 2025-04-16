@@ -5,6 +5,7 @@ weight: 3
 title: EditionCrafter
 ---
 
+<<<<<<< Updated upstream
 <div id="ec"></div>
 
  <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
@@ -21,3 +22,5 @@ title: EditionCrafter
      });
 
  </script>
+=======
+>>>>>>> Stashed changes
