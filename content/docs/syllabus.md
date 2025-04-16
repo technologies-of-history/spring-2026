@@ -1,5 +1,4 @@
 ---
-layout: page
 draft: false
 type: docs
 weight: 1

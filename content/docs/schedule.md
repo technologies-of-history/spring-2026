@@ -1,9 +1,8 @@
 ---
-title: Schedule
 draft: false
 type: docs
 weight: 2
-title: Course Schedule
+title: Schedule
 ---
 # Schedule
 
