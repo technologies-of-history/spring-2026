@@ -14,7 +14,7 @@ title: EditionCrafter
      EditionCrafter.viewer({
          id: 'ec',
          documentName: 'BnF Ms. Fr. 640',
-         iiifManifest='https://github.com/technologies-of-history/spring-2026/blob/main/dyngley_data/dyngley/iiif/manifest.json',
+         iiifManifest='https://github.com/technologies-of-history/spring-2026//dyngley/iiif/manifest.json',
          transcriptionTypes: {
            text: 'Transcription',
          }
