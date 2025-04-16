@@ -19,7 +19,9 @@ For this assignment, you will select a Middle English medical recipe from [Trini
 1. Click through the images of TCC MS O.8.35 and select a single page of text to transcribe. Make note of the folio number for your page, indicated at the bottom of the Mirador viewer (i.e. f001r or f014v).
 2. Once you've located the folio number, visit our GitHub course site and navigate to dyngley_data > dyngley.xml.
 3. Scroll through the XML code under `<facsimile sameAs="https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json">` until you find your folio number. 
-Each image of the manuscript has been given an xml id, which then corresponds to a folio number. For example, in this line of code `<surface xml:id="f016" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2" ><label>f001r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2"/></surface>`, the xml id is "f016" while the actual folio number of the manuscript is "f001r."
+Each image of the manuscript has been given an xml id, which then corresponds to a folio number. For example, in this line of code 
+```<surface xml:id="f016" ulx="0" uly="0" lrx="2967" lry="4062" sameAs="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2" ><label>f001r</label><graphic mimeType="application/json" url="https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.8.35%2F017_O.8.35_f001r.jp2"/></surface>```
+the xml id is "f016" while the actual folio number of the manuscript is "f001r."
 That's because this is the sixteenth image in the manuscript, though it corresponds with the first official numbered folio of the manuscript.
 4. Create a .txt file using your text editor. Use the following naming convention: the_xml_id_for_your_page.txt. For example, the file featuring the transcriptions of f001r of the manuscript would be named f016.txt.
 5. Transcribe the entire recipe in your text file.
