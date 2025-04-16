@@ -1,7 +1,7 @@
 ---
 layout: page
 bookTOC: false
-draft: true
+draft: false
 title: Digital Tools 4
 ---
 # Turning texts into data with XML and EditionCrafter
@@ -14,10 +14,11 @@ For this assignment, you will select a Middle English medical recipe from [Trini
 {{< iframe url="https://projectmirador.org/embed/?iiif-content=https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json" >}}
 
 
-## Step 1: Document Analysis:
+## Step 1: Select a recipe to transcribe
 
-1. What about the format of the document would you like to make legible in a digital representation? Does your chosen document have a front and back? Paragraphs or lines of poetry? Dialogue? Lists? Images?
-2. What are the elements (content) of the text that you'd like to make legible as data? Are there different languages? Bold text? Emphasized text? Place names or people's names? You can refer to the glossary of official TEI elements [here](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html), or you can review the basic TEI tags in the [Basic Tagging tutorial](https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/basic_encoding/basic_encoding_tutorial_00.xhtml) from the Women Writer's Project.
+1. Click through the images of TCC MS O.8.35 and select a single page of text to transcribe.
+2. You can refer to the glossary of official TEI elements [here](https://tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html), or you can review the basic TEI tags in the [Basic Tagging tutorial](https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/basic_encoding/basic_encoding_tutorial_00.xhtml) from the Women Writer's Project.
+
 3. Write your TEI schema so that you have a root and elements nested within that root, i.e. `<div>`, `<head>`, `<text>`, `<image>`, `<persName>`, etc.
 Strive for at least 5 different elements or attributes that capture the basic structure and content of the text.
 
