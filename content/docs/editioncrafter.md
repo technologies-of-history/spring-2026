@@ -8,7 +8,7 @@ title: EditionCrafter
 Playing around with embedding an EditionCrafter viewer in my site.
 
 <html>
-<div id="ec"></div>
+<div id="ec">
 
  <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
 
@@ -24,3 +24,5 @@ Playing around with embedding an EditionCrafter viewer in my site.
      });
 
  </script>
+ </div>
+ </html>
