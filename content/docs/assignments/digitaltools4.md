@@ -9,6 +9,11 @@ As you know from class, XML is a metalanguage (a language used to describe or ma
 
 For this assignment, you will select a Middle English medical recipe from [Trinity College Cambridge MS O.8.35](https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35) in order to create your own TEI markup.
 
+## Trinity College Cambridge MS O.8.35, digitized by the Trinity College Cambridge Library
+
+{{< iframe url="https://projectmirador.org/embed/?iiif-content=https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json" >}}
+
+
 ## Step 1: Document Analysis:
 
 1. What about the format of the document would you like to make legible in a digital representation? Does your chosen document have a front and back? Paragraphs or lines of poetry? Dialogue? Lists? Images?
