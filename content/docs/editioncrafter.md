@@ -7,5 +7,5 @@ title: EditionCrafter
 
 Trinity College Cambridge MS O.8.35, digitized by the Trinity College Cambridge Library.
 
-<iframe width="100%" height="600" src="https://projectmirador.org/embed/?iiif-content=https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json"></iframe>
+{{< iframe https://projectmirador.org/embed/?iiif-content=https://mss-cat.trin.cam.ac.uk/Manuscript/O.8.35/manifest.json >}}
 
