@@ -1,4 +1,0 @@
-<pb facs="#f012"/>
-			<div>
-				<desc>Three lines of cancelled notes. Illegible.</desc>
-			</div>

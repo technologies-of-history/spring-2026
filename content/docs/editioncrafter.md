@@ -1,12 +1,10 @@
 ---
 title: "EditionCrafter"
-draft: true
+draft: false
 type: "editioncrafter"
 documentName: "dyngley"
-documentURL: 
+documentURL: "https://technologies-of-history.github.io/dyngley-data/dyngley/iiif/manifest.json"
 transcriptionTypes:
-    transcription: "Transcription"
+    text: "Transcription"
 weight: 3
 ---
-
-A [link](https://github.com/technologies-of-history/spring-2026/dyngley/iiif/manifest.json) to the IIIF manifest containing the transcriptions and images.
