@@ -17,7 +17,7 @@ title: Digital Edition
          documentName: 'TCC MS 0.8.35',
          iiifManifest='https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/iiif/manifest.json',
          transcriptionTypes: {
-           tc: 'Transcription',
+           transcription: 'Transcription',
          }
      });
 
