@@ -15,7 +15,7 @@ title: Digital Edition
      EditionCrafter.viewer({
          id: 'ec',
          documentName: 'TCC MS 0.8.35',
-         iiifManifest='https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/iiif/manifest.json',
+         iiifManifest='https://technologies-of-history.github.io/dyngley-data/public/dyngley/iiif/manifest.json',
          transcriptionTypes: {
            transcription: 'Transcription',
          }
