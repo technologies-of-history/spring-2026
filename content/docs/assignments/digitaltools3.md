@@ -2,7 +2,7 @@
 layout: page
 bookTOC: false
 draft: false
-title: Digital Tools 4
+title: Digital Tools 3
 ---
 # Turning texts into data with XML and EditionCrafter
 As you know from class, XML is a metalanguage (a language used to describe or markup another language) used in order to process and store texts in digital format. Markup languages are valuable as means of helping digital archivists and instructional technologists do two things: first, markup creates a rich data set from the text in question which can then be converted into a number of formats; second, markup encodes how a particular text should be presented on a webpage, digital publication, data set, etc. Markup languages thus guide our interpretations of those texts. Considerations like spacing, bolding, and headings are all aspects of the markup process—which is often also referred to as “encoding.” Marking up a document in XML is a matter of directing a person as to how the manuscript’s content should be presented and interpreted.

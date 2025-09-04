@@ -6,9 +6,9 @@ title: Digital Tools 4
 ---
 # Mapping History with MapWarper and StoryMaps
 
-You’ve already explored [StoryMaps](https://storymap.knightlab.com/) in our recent Digital Lab.
+You’ve already explored [Google MyMaps](https://storymap.knightlab.com/) in our recent Digital Lab.
 
-Now, for your fourth Digital Tools Assignment, you will create your own StoryMaps project 
+Now, for your second Digital Tools Assignment, you will create your own StoryMaps project 
 in order to express a particular historical and spatial narrative. You may map a historical 
 narrative of your choice, or you may pull from sources we have discussed in class so far. 
 It might be a good idea to choose a historical topic about which you already know a little 
