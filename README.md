@@ -1,4 +1,2 @@
-# HUM-331-Princeton.github.io
-This is the course website for HUM 331/HIS 336 at Princeton University, built using Jekyll Now.
-
-Students will be learning to use GitHub to post digital assignments to our course blog.
+# Technologies of History from Cuneiform to Coding
+This is the course website for HIST 30693, featuring work produced by students enrolled in the Spring 2026 semester. For more on the course's syllabus, assignment, and schedule, visit [https://technologies-of-history/course](https://technologies-of-history/course).
