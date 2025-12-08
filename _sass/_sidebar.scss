@@ -1,4 +1,4 @@
-// Sidebar borrowed from the Lanyon template //
+
 
 .sidebar {
   position: fixed;
@@ -9,53 +9,39 @@
   visibility: hidden;
   overflow-y: auto;
   font-family: $helvetica;
-  font-size: 20px; /* 15px */
-  color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: $blue;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
+
+@include mobile {
+    font-size: 12px;
 }
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .75rem; /* 14px */
-  }
 }
 
-/* Sidebar content */
-.sidebar a {
-  font-weight: 500;
-  color: $white;
-}
-.sidebar-item {
-  padding: 1rem;
-}
-.sidebar-item p:last-child {
-  margin-bottom: 0;
-}
 
-/* Sidebar nav */
-.sidebar-nav {
-}
+
 .sidebar-nav-item {
   display: block;
-  padding: .5rem 1rem;
-}
-.sidebar-nav-item.active,
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: none;
-  background-color: rgba(255,255,255,.1);
-  border-color: transparent;
-}
+  font-size: 20px;
+  font-weight: 500;
+  color: $lightGray;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+  padding: .75rem 1rem;
 
-@media (min-width: 48em) {
-  .sidebar-item {
-    padding: 1.5rem;
-  }
-  .sidebar-nav-item {
+  @include mobile {
+    font-size: 14px;
     padding-left:  1.5rem;
     padding-right: 1.5rem;
   }
+}
+
+.sidebar-nav-item.active,
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  color: $white;
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
 }
 
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
@@ -114,18 +100,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-/* Slide effect
- *
- * Handle the sliding effects of the sidebar and content in one spot, seperate
- * from the default styles.
- *
- * As an a heads up, we don't use `transform: translate3d()` here because when
- * mixed with `position: fixed;` for the sidebar toggle, it creates a new
- * containing block. Put simply, the fixed sidebar toggle behaves like
- * `position: absolute;` when transformed.
- *
- * Read more about it at http://meyerweb.com/eric/thoughts/2011/09/12/.
- */
 
 .wrap,
 .sidebar,
@@ -150,16 +124,4 @@ a.sidebar-nav-item:focus {
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
-}
-
-/* Blue */
-.theme-base-0d .sidebar,
-.theme-base-0d .sidebar-toggle:active,
-.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: $blue;
-}
-.theme-base-0d .container a,
-.theme-base-0d .sidebar-toggle,
-.theme-base-0d .related-posts li a:hover {
-  color: $blue;
 }

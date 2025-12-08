@@ -6,7 +6,7 @@
 name: Technologies of History
 
 # Short bio or description (displayed in the header)
-description: Texas Christian University, Spring 20026
+description: Produced by students at Texas Christian University, Spring 2026
 
 
 footer-links:
@@ -19,7 +19,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https:/technologies-of-history.github.io
+url: https://technologies-of-history.github.io
 
 
 baseurl: "/spring-2026"
