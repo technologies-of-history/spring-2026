@@ -22,7 +22,7 @@ google_analytics:
 url: https:/technologies-of-history.github.io
 
 
-baseurl: "spring-2026"
+baseurl: "/spring-2026"
 
 
 permalink: /:title/
