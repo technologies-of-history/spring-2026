@@ -17,14 +17,20 @@
   <body class="theme-base-0d">
 
     {% include sidebar.html %}
-
-    <div class="banner-container">
-      <a href="{{ site.baseurl }}/index"><img src="{{ site.baseurl }}/images/HUM-331-Web-Banner.jpg"></a>
+      
+      <div class="banner-wrapper">
+      <div class="banner-container">
+        <a href="{{ site.baseurl }}/index"><img src="{{ site.baseurl }}/images/banner-image.png"></a>
+      </div>
     </div>
 
     <div class="mobile-banner">
-      <a href="{{ site.baseurl }}/index"><img src="{{ site.baseurl }}/images/Mobile-banner-HUM331.jpg"></a>
+      <a href="{{ site.baseurl }}/index"><img src="{{ site.baseurl }}/images/mobile-banner.png"></a>
     </div>
+
+    <div class="site-info">
+           <h1 class="site-name">{{ site.name }}</h1>
+      </div>
 
     <div class="wrap">
         <div id="main" role="main" class="container">
@@ -35,7 +41,9 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <p>Built with Jekyll Now & Lanyon on GitHub Pages.</p>
+          <img class="logo" src="{{ site.baseurl }}/images/TCULogo.jpg" width="200">
+          <p>This site is a product of academic coursework, created by students for educational purposes. The opinions and views expressed on this site are solely those of the individuals involved and do not necessarily represent the official stance or views of Texas Christian University.</p>
+          <p>Built on GitHub Pages. &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
         </footer>
       </div>
     </div>

@@ -9,7 +9,7 @@
   visibility: hidden;
   overflow-y: auto;
   font-family: $helvetica;
-  font-size: .875rem; /* 15px */
+  font-size: 20px; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
@@ -23,7 +23,7 @@
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: 300;
+  font-weight: 500;
   color: $white;
 }
 .sidebar-item {

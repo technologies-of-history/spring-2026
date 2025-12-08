@@ -6,7 +6,7 @@ title: HUM 331
 This blog features the research of students in _Technologies of History from Cuneiform to Coding_ taught by Professor Melissa Reynolds at Texas Christian University in Spring 2026. Throughout the semester, students will be posting their work related to the history of communicatiosn technologies from the ancient world to the present day, using various
 digital "tools" that they learn over the semester. Through these posts, students will learn the basics of GitHub workflows and Markdown language, taking advantage of the possibilities of digital storytelling and digital analytical methodologies. 
 
-For more on the course, visit the [syllabus website](https://technologies-of-history.github.io/course).
+Click the menu in the upper left corner to learn more about the [student contributors]({{ site.baseurl }}/contributors) or to peruse the course [syllabus](https://technologies-of-history.github.io/course).
 
 ---
 <br>
