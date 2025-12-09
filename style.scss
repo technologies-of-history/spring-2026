@@ -214,19 +214,6 @@ img {
       font-size: 32px;
     }
   }
-
-  .site-description {
-    display: block;
-    color: $white;
-    padding-bottom: 10px;
-    font-size: 18px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-    text-align: center;
-
-    @include mobile {
-      font-size: 12px;
-    }
-  }
 }
 
 
