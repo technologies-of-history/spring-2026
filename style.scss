@@ -184,7 +184,7 @@ img {
 
   @include mobile {
     visibility: hidden;
-    margin: -20px auto;
+    margin-top: -70px;
   }
 }
 
@@ -193,6 +193,12 @@ img {
   background-color: $blue;
   margin-top: -60px;
   box-shadow: $darkGray 4px 2px 4px 0px;
+
+  @include mobile {
+    margin-top: -100px;
+    height: 200px;
+  }
+}
 
 .site-name {
   display: block;
@@ -214,9 +220,9 @@ img {
 
     @include mobile {
       font-size: 32px;
+      padding-top: 150px;
     }
   }
-}
 
 
 //
@@ -248,7 +254,9 @@ img {
 
   .post-title {
     font: $helvetica;
-    margin-bottom: -15px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: -10px;
     text-transform: uppercase;
   }
 
@@ -261,6 +269,7 @@ img {
     font-size: $type-size-4;
   }
 }
+
 .breadcrumbs {
   text-transform: uppercase;
   float: right;
@@ -276,6 +285,10 @@ img {
   display: block;
   float: left;
   margin: 0 auto;
+
+  @include mobile {
+    width: 100px;
+  }
 }
 
 footer {
