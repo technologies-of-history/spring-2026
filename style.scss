@@ -216,6 +216,7 @@ img {
     a {
       color: $white;
       text-decoration: none;
+      padding-right: 10px;
     }
 
     @include mobile {
