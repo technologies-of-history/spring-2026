@@ -273,11 +273,11 @@ img {
 .breadcrumbs {
   text-transform: uppercase;
   float: right;
+  font-size: $type-size-4;
 }
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
   background-color: $white;
 }
 
