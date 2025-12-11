@@ -2,13 +2,11 @@
 layout: default
 ---
 
-<br>
-<br>
 <div class="posts" id="top">
   {% for post in site.posts %}
     <article class="post">
       <header class="post-header">
-      <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <h1 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <h4>By {{ post.author }} on {{ post.date | date: "%B %e, %Y" }}</h4>
       </header>
 
