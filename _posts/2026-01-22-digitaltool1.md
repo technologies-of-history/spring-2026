@@ -25,11 +25,13 @@ An example of this comes from the Van De Mieroop reading, where great detail is 
 
 Part of the broader iportance also comes from the goal of the writings. Van De Mieroop details about the differences in the script work between the scholars. It is pointed out that the teachers of the scribes would inscribe portions of text on one side, and the scribes would copy it line for line on the other. This was evidenced by the tablets being signifigantly thinner on one side from the teachers scraping away the clay so the students could begin again (Van De Mieroop, 18). However, it was also incredibly important to keep administrative records along the way, as evidenced in the several tablets we have available like [this](https://cdli.earth/artifacts/102299) one, at Emory University in Georgia. 
 
-It is often seen that the Babylonians, for example, did not have a concrete philosiphy system that they worked through, but this is simply not the case. They simply didn't keep records of it in the same way that we did 
+It is often seen that the Babylonians, for example, did not have a concrete philosiphy system that they worked through, but this is simply not the case. They simply didn't keep records of it in the same way that others did
 
 ### GREECE
 
 The Greeks are famous for their philosiphy, for their waxing poetic about everything under the sun. Initially, they had a similar setup to the Mesopotamians, where there were two simultaneous languages that people were fluent or literate in, but that changed once time moved a little further forward. 
+
+There is the thought that the Greeks were mostly an oratorical bunch, and this seems to be true based on a lot of their traditions regarding various festivals and the like. This is also seen through how some of the authors of various records we have, and their attitudes toward the other histories and thinkers. Specifically, I'll point to one specific historian, referenced in Goody's article, where Hecataeus wrote, "What I write is the account that I believe to be true. For the stories the Greeks tell are many and in my opinion, ridiculous." (322, Goody)
 
 
 
