@@ -6,14 +6,6 @@ excerpt_separator: <!--more-->
 ---
 Historians have suggested that alphabetic writing enabled the development of philosophical thought in Greece that was markedly different from that of ancient Mesopotamia, with its cuneiform syllabary. What does this argument suggest about the structure of a language and what that language makes possible? What are the implications of this argument for the way we think about computer languages?
 
-To receive full credit for this assignment, be sure to draw comparisons between the arguments expressed by Goody and Van De Mieroop in their respective articles and those you develop related to digital communications. Use parenthetical citations (lastname page#) to cite these works if necessary.
-
-Your post should include the following elements of Markdown code:
-
-At least one heading
-At least one link
-At least one image
-
 
 ## Stella's Thoughts
 
@@ -41,4 +33,10 @@ Most of the way that the Greeks thought was not only complex, but was in a sense
 
 Both of these civilizations cared deeply about their records. They created libraries, sent for copies of texts they didn't possess, took great care to preserve the texts they already had, and believed that what they already had was a foundation for the rest of their learning. 
 
-Part of the disadvantage that Mesopotamia struggled with was the way that their language and writing developed. Until much later in their civilization, there was no complete alphabet that was understood or used widely by anyone other than the elite, ruling class. 
+Part of the disadvantage that Mesopotamia struggled with was the way that their language and writing developed. Until much later in their civilization, there was no complete alphabet that was understood or used widely by anyone other than the elite, ruling class. This, in conjunction with the needs and desires of the individuals within the society as a whole, could possibly show why a relatively simple way of language, writing, and speech was developed. 
+
+In contrast, the Greeks had a signifigantly more complex way of speaking and writing, in addition to their stylized alphabet, and a greater population that could afford to do nothing but sit around all day and either wax poetically about the state of the government or research old books in order to write down history. In those senses, they had an advantage over Mesopotamian philosiphers. 
+
+### COMPUTERS
+
+As we look at the various computer languages, we can see a similar shift in the things that the developers are able to acomplish. It is entirely possible, and usually expected, for a developer to be moderately proficent in each of the languages available, though they're expected to specialize in maybe one or two areas. Because of this, the languages are not meant to do everything- you'd neer expect to use CSS to run a complex data set and analyze tone shift in a set of words. In some ways, this limits 
