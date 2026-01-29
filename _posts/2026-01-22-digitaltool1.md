@@ -29,12 +29,16 @@ It is often seen that the Babylonians, for example, did not have a concrete phil
 
 ### GREECE
 
-The Greeks are famous for their philosiphy, for their waxing poetic about everything under the sun. Initially, they had a similar setup to the Mesopotamians, where there were two simultaneous languages that people were fluent or literate in, but that changed once time moved a little further forward. 
+The Greeks are famous for their philosiphy, for their waxing poetic about everything under the sun. Initially, they had a similar setup to the Mesopotamians, where there were two simultaneous languages that people were fluent or literate in, but that changed once time moved a little further forward. Below is a bust of one such historian, Herodotus, who is credited with authoring a lot of the text we have today about the Persian and Greek wars that were around 500 B.C.
+
+![A bust of Herodotus, a famous Greek historian and philosipher](https://collectionapi.metmuseum.org/api/collection/v1/iiif/245829/1363766/main-image)
 
 There is the thought that the Greeks were mostly an oratorical bunch, and this seems to be true based on a lot of their traditions regarding various festivals and the like. This is also seen through how some of the authors of various records we have, and their attitudes toward the other histories and thinkers. Specifically, I'll point to one specific historian, referenced in Goody's article, where Hecataeus wrote, "What I write is the account that I believe to be true. For the stories the Greeks tell are many and in my opinion, ridiculous." (322, Goody)
 
-
+Most of the way that the Greeks thought was not only complex, but was in a sense it lended itself to actually being able to process and think of more in depth ideas than other civilizations that may have struggled a little bit more to either survive or to develop the more introspective or philosiphical thinkinh.
 
 ### BOTH?
 
 Both of these civilizations cared deeply about their records. They created libraries, sent for copies of texts they didn't possess, took great care to preserve the texts they already had, and believed that what they already had was a foundation for the rest of their learning. 
+
+Part of the disadvantage that Mesopotamia struggled with was the way that their language and writing developed. Until much later in their civilization, there was no complete alphabet that was understood or used widely by anyone other than the elite, ruling class. 
