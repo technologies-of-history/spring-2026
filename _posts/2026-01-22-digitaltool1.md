@@ -16,3 +16,6 @@ Your post should include the following elements of Markdown code:
 At least one heading
 At least one link
 At least one image
+
+
+From the two readings, it seems that the language used in ancient Mesopotamia, specifically Babylon and ___ was used much more for administrative and record-keeping purposes, as evidenced by the various myths and epic poems that have survived in addition to the the 
