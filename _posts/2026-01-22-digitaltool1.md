@@ -18,4 +18,6 @@ At least one link
 At least one image
 
 
-From the two readings, it seems that the language used in ancient Mesopotamia, specifically Babylon and ___ was used much more for administrative and record-keeping purposes, as evidenced by the various myths and epic poems that have survived in addition to the the 
+From the two readings, it seems that the language used in ancient Mesopotamia, specifically Babylon and ___ was used much more for administrative and record-keeping purposes, as evidenced by the various myths and epic poems that have survived in addition to the records of business and laws that have survived.
+
+An example of this comes from the Van De Mieroop reading, where great detail is gone into about how exactly the language works. Specifically, each element of language represents a specific meaning which can be condensed into one word, as seen in the details of Marduk's thirty sixth name, LUGALABDUBUR (8, Van De Mieroop). What appears to be a name is a complex sentence, a description of what was greatly important to be written down. 
