@@ -4,9 +4,6 @@ author: Stella Lenzie
 title: Digital Tools 1
 excerpt_separator: <!--more-->
 ---
-
-prompt:
-
 Historians have suggested that alphabetic writing enabled the development of philosophical thought in Greece that was markedly different from that of ancient Mesopotamia, with its cuneiform syllabary. What does this argument suggest about the structure of a language and what that language makes possible? What are the implications of this argument for the way we think about computer languages?
 
 To receive full credit for this assignment, be sure to draw comparisons between the arguments expressed by Goody and Van De Mieroop in their respective articles and those you develop related to digital communications. Use parenthetical citations (lastname page#) to cite these works if necessary.
@@ -34,6 +31,8 @@ It is often seen that the Babylonians, for example, did not have a concrete phil
 
 The Greeks are famous for their philosiphy, for their waxing poetic about everything under the sun. Initially, they had a similar setup to the Mesopotamians, where there were two simultaneous languages that people were fluent or literate in, but that changed once time moved a little further forward. 
 
+
+
 ### BOTH?
 
-Both of these civilizations cared deeply about their records. They created libraries, sent for copies of texts they didn't possess, 
+Both of these civilizations cared deeply about their records. They created libraries, sent for copies of texts they didn't possess, took great care to preserve the texts they already had, and believed that what they already had was a foundation for the rest of their learning. 
