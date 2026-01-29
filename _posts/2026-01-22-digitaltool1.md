@@ -4,10 +4,6 @@ author: Stella Lenzie
 title: Digital Tools 1
 excerpt_separator: <!--more-->
 ---
-Historians have suggested that alphabetic writing enabled the development of philosophical thought in Greece that was markedly different from that of ancient Mesopotamia, with its cuneiform syllabary. What does this argument suggest about the structure of a language and what that language makes possible? What are the implications of this argument for the way we think about computer languages?
-
-
-## Stella's Thoughts
 
 From the two readings, it seems that the language used in ancient Mesopotamia, specifically Babylon and Assur, was used much more for administrative and record-keeping purposes, as evidenced by the various myths and epic poems that have survived in addition to the records of business and laws that have survived. However, this does't mean that the Greeks did anything better, it was merely different.
 
@@ -39,4 +35,6 @@ In contrast, the Greeks had a signifigantly more complex way of speaking and wri
 
 ### COMPUTERS
 
-As we look at the various computer languages, we can see a similar shift in the things that the developers are able to acomplish. It is entirely possible, and usually expected, for a developer to be moderately proficent in each of the languages available, though they're expected to specialize in maybe one or two areas. Because of this, the languages are not meant to do everything- you'd neer expect to use CSS to run a complex data set and analyze tone shift in a set of words. In some ways, this limits 
+As we look at the various computer languages, we can see a similar shift in the things that the developers are able to acomplish. It is entirely possible, and usually expected, for a developer to be moderately proficent in each of the languages available, though they're expected to specialize in maybe one or two areas. Because of this, the languages are not meant to do everything- you'd neer expect to use CSS to run a complex data set and analyze tone shift in a set of words. In some ways, this limits the developer, because the more time that they need to spend on one particular skill they are less proficent in is basically a one-way ticket to ensuring the project won't get done in a timely fashion. On the other hand, this empowers the developer in new ways to think outside the box and try new things. 
+
+All of this is in the eye of the beholder, and will of course shift and change throughout the new landscapes that continue to pop up as we move through the digital humanities. 
