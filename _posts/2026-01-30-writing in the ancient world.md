@@ -1,6 +1,6 @@
 ---
 layout: post
 author: Kylie Millar
-title: Welcome to Our Course
+title: Writing in the Ancient World 
 excerpt_separator: <!--more--> 
 ---
