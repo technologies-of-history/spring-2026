@@ -4,10 +4,10 @@ author: Kylie Millar
 title: Writing in the Ancient World 
 excerpt_separator: <!--more--> 
 ---
-## cuneiform
+## From Cuneiform to the Alphabet
 
-my name is kylie 
+Historians argue that different structues of writing determine how us as people think. Goody and Watt explain in the text that in oral cultures, people had to remember everything; knowledge depends on traditions and memory, keeping the ideas tied to social situations. The text stats that anything you are writing down and saving for the future is something important and worth record-keeping. (Goody and Watt 311-332) 
 
 [Digital tools assignment](https://technologies-of-history.github.io/course/digitaltools1)
 
-![brown dress](https://is4.revolveassets.com/images/p4/n/z/BARD-WD831_V1.jpg){:width="150px" .right-image}
+![Getting started with Markdown picture](https://programminghistorian.org/gallery/getting-started-with-markdown.png){:width="270px" .right-image}
