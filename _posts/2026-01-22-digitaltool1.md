@@ -7,6 +7,8 @@ excerpt_separator: <!--more-->
 
 From the two readings, it seems that the language used in ancient Mesopotamia, specifically Babylon and Assur, was used much more for administrative and record-keeping purposes, as evidenced by the various myths and epic poems that have survived in addition to the records of business and laws that have survived. However, this doesn't mean that the Greeks did anything better, it was merely different.
 
+<!--more-->
+
 ### MESOPOTAMIA
 
 An example of this comes from the Van De Mieroop reading, where great detail is gone into about how exactly the language works. Specifically, each element of language represents a specific meaning which can be condensed into one word, as seen in the details of Marduk's thirty sixth name, LUGALABDUBUR (Van De Mieroop, 8). What appears to be a name is a complex sentence, a description of what was greatly important to be written down. 
