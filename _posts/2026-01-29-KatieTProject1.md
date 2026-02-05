@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 # Development of Digital Media 
-As humans have evolved over time the more langauge is devolped and the smarter humans have become. Even nurses and doctors from 20 years ago say that school is harder know then it was back in their day. With evolution comes discoveries, everyday humans are discoverying something new and that makes the world such a cool place. What makes language possible is discoveries 
+As humans have evolved over time the more langauge is devolped and the smarter humans have become. Even nurses and doctors from 20 years ago say that school is harder know then it was back in their day. With evolution comes discoveries, everyday humans are discoverying something new and that makes the world such a cool place. What makes language possible is discoveries, with everything new thing found there has to be a new way to describe it. 
 <!--more--> 
 kkwavbskdibbvs
 
