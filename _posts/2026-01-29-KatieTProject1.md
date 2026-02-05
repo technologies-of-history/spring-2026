@@ -6,8 +6,10 @@ excerpt_separator: <!--more-->
 ---
 
 # Development of Digital Media 
-As time has gone on humans have gotten smarter
+As humans have evolved over time the more langauge is devolped and the smarter humans have become. Even nurses and doctors from 2o years ago say that school is harder know then it was back in their day. This is because of the advances
 <!--more--> 
 
-![Mespotamian Writings] (https://mesopotamianhistory.wordpress.com/wp-content/uploads/2015/08/sumerian_26th_c.jpg) {:width="270px" .right-image}
+![Mespotamian Writings](https://mesopotamianhistory.wordpress.com/wp-content/uploads/2015/08/sumerian_26th_c.jpg){:width="270px" .right-image}
+
+
 
