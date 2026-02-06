@@ -1,15 +1,16 @@
+# The Structures of Language
+
+There are many components involved when you break down a language. Each language is unique in it's orgin, meaning, and writing style but one thing is true for all 
+languages and that is they evolve over time. The evolution of language brings social, cultural, and cognitive change. But with so many different languages it can 
+be hard to pinpoint what language inspired another. This has led to many historians debating the involvement of alphabetic writing within various developments like 
+Greek philosphy.
+
 ---
 layout: post
 author: Kasia K. Love
 title: Digital Tools 1
 excerpt_seperator: <!--more-->
 ---
-# The Structures of Language
-There are many components involved when you break down a language. Each language is unique in it's orgin, meaning, and writing style but one thing is true for all 
-languages and that is they evolve over time. The evolution of language brings social, cultural, and cognitive change. But with so many different languages it can 
-be hard to pinpoint what language inspired another. This has led to many historians debating the involvement of alphabetic writing within various developments like 
-Greek philosphy.
-
 
   With the debate of whether alphabetic writing enabled the development of Greek philosphy I was able to analyze and compare two main arguments. Upon reading the first argument within 
 _The Consequences of Literacy_ I inferred the adoption of alphabetic writing helped shift several cognitive and social changes that weren't present when 
