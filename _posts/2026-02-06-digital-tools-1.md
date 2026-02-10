@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Aiden Reed
-title: Digital Tools 1
+title: Aiden Digital Tools 1
 excerpt_separator: <!--more-->
 ---
-![Alt text](https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/12/texting_isnt_secure_kind_of.jpg "Texting")(:width="500px" .center-image)
+![Texting](https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/12/texting_isnt_secure_kind_of.jpg){:width="500px" .center-image}
 # Historian's Views on Language
 Historians like Jack Goody and Marc De Van Meiroop argue that the way people write can shape how they think. When comparing ancient Mesopotamian cuneiform to the later Greek alphabet, the historians show us that there is more to writing systems than just keeping records. For example scribes figured out how to organize these writings and people are allowed to look back at these writings over time, which develops logic and philosophy.
   
