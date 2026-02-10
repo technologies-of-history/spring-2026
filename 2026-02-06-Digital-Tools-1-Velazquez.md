@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 ## Introduction
 
 Writing systems are not neutral tools for recording language; they actively shape how knowledge is organized, preserved, and interpreted. From Babylonian cuneiform tablets impressed into clay to the alphabetic writing of ancient Greece and contemporary digital tools like Markdown, each communication technology structures the possibilities for scholarship. As Jack Goody and Marc Van De Mieroop argue, the form of writing itself influences the nature of knowledge; a relationship that remains highly relevant in the age of digital communication.
-
+excerpt_separator: <!--more-->
 ## Cuneiform and Structured Interpretation
 
 The Babylonian kudurru shown above exemplifies a knowledge system built around specialization and interpretation. Cuneiform signs could represent syllables, words, or complex ideas, requiring extensive training to master. As Marc Van De Mieroop explains in *Philosophy before the Greeks*, Mesopotamian knowledge was structured through lists and omens that demanded rigorous "if-then" reasoning rather than abstract theorization. Meaning did not reside automatically in the written sign; instead, the "diviner-scholar" acted as a necessary intermediary to decode what was seen as "heavenly writing." This approach structured knowledge as something authoritative and cumulative, preserved within elite scholarly traditions. Rather than encouraging speculative philosophy in the modern sense, cuneiform supported precision and the organization of the universe through patterned signs. Knowledge was stable but required human expertise to “key” its interpretation.
