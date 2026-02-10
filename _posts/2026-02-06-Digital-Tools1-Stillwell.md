@@ -1,3 +1,10 @@
+---
+layout: post
+author: Andrew Stillwell
+title: Architecture of Thought
+excerpt_separator: <!--more->
+---
+
 ## The Architecture of Thought: From Cuneiform to Code
 
 The shift from the complex writing styles of Mesopotamia to that of the Greeks was more than just a more simple means of communication. It was a shift that altered the very ways of thinking. Marc Van De Mieroop talks about the ways in which they expressed themselves through a writing style such as cuneiform. This writing style made them more inclined to think in terms of specific examples rather than broad ideas. Goody and Watt explain that the simplicity of the Greek alphabet made it possible to move beyond memorizing lists to think about formal logic and philosophy. This shows that the very structure of a language is a foundation on which the mind operates.
