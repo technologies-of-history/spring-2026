@@ -9,7 +9,7 @@ excerpt_separator: <!--more->
 
 The shift from the complex writing styles of Mesopotamia to that of the Greeks was more than just a more simple means of communication. It was a shift that altered the very ways of thinking. Marc Van De Mieroop talks about the ways in which they expressed themselves through a writing style such as cuneiform. This writing style made them more inclined to think in terms of specific examples rather than broad ideas. Goody and Watt explain that the simplicity of the Greek alphabet made it possible to move beyond memorizing lists to think about formal logic and philosophy. This shows that the very structure of a language is a foundation on which the mind operates.
 
-<!--more->
+<!--more-->
 
 This argument is really interesting when you think about computer languages today. If the Greek alphabet helped everyone learn to read and think analytically, then computer languages kind of do the exact opposite by creating a new class of people that are the only ones who know how to use them. When you use a programming language, you are working with a logic that is super rigid. While the Greeks could discuss philosophy and other things, a computer language only works if the code is 100% correct. This means that while ancient languages were about observing the world or discussing philosophy, computer languages are all about procedural commands. The language is used not just to talk about something, but to actually get it done automatically.
 
