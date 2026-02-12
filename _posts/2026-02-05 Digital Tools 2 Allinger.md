@@ -28,6 +28,8 @@ var marker = L.marker([35.01, 24.95]).addTo(map).bindPopup('Rhizenia').openPopup
 </div>
 </html>
 
+
+
 <html>
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
@@ -44,6 +46,28 @@ var marker = L.marker([35.01, 24.95]).addTo(map).bindPopup('Rhizenia').openPopup
         },
         windows: [
           { loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/F007261.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+        ]
+      })();
+</script>
+</div>
+</html>
+
+<html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+  
+  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
+  
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script>
+      const mirador = Mirador.viewer({
+        id: "my-mirador",
+        manifests: {
+          "https://technologies-of-history.github.io/spring-2026-data/iiif/allinger.json": { provider: "Epigraphic Database Heidelberg" }
+        },
+        windows: [
+          { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/allinger.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
       })();
 </script>
