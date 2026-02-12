@@ -1,6 +1,6 @@
-<html>
+<html>  
 <div style="margin: 2rem 0;">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/div>
 
   <div id="map" style="position: relative; height: 500px; width: 100%;"></div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -22,6 +22,7 @@ var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis').op
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
   <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+</div> 
   
   <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
   
@@ -33,7 +34,7 @@ var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis').op
           "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
-          { loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+          {loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
       })();
 </script>
