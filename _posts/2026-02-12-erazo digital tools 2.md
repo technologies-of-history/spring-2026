@@ -18,6 +18,10 @@ excerpt_separator: <!--more-->
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
+var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
+var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
+var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
+var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
 </script>
 </div>
 </html>
