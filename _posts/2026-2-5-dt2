@@ -38,10 +38,10 @@ var marker = L.marker([32.4984491071, 35.501623231]).addTo(map).bindPopup('Scyth
       const mirador = Mirador.viewer({
         id: "my-mirador",
         manifests: {
-          "https://edh.ub.uni-heidelberg.de/iiif/edh/HD004074.manifest.json": { provider: "Epigraphic Database Heidelberg" }
+          "https://technologies-of-history.github.io/spring-2026-data/iiif/hahn.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
-          { loadedManifest: "URLforyourmanifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+          { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/hahn.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
       })();
 </script>
