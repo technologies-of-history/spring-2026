@@ -1,3 +1,10 @@
+---
+layout: post
+author: Aiden Reed
+title: Aiden Reed Digital Tools 2
+excerpt_separator: <!--more-->
+---
+
 <html>
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
