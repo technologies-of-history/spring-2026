@@ -17,8 +17,10 @@ L,tilelayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 maxzoom: 19,
 attribution: '&copy; <a href= "https://www.openstreetmap.org/copyright">openStreetMap</a>'
 }).addTo(map);
-var marker= L.marker ({46.59, 1.52]) .addTo (map).bindPopup ('Argentomagus').openPopup();
+var marker= L.marker ([46.59, 1.52]) .addTo (map).bindPopup ('Argentomagus').openPopup();
 </script>
 </div>
 </div>
-<html>
+</html>
+
+
