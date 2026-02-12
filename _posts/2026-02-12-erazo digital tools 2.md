@@ -3,7 +3,7 @@ layout: post
 author: Camila Erazo
 title: Digital Tools 2
 excerpt_separator: <!--more-->
---
+---
 
 <html>
 <div style="marggin: 2rem 0;">
