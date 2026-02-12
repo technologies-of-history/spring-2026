@@ -31,7 +31,7 @@ L.marker([35.138224, 32.813067]).addTo(map).bindPopup('Soli, bei').openPopup();
       const mirador = Mirador.viewer({
         id: "my-mirador",
         manifests: {
-          "URLforyourmanifest.json": { provider: "Epigraphic Database Heidelberg" }
+          "https://technologies-of-history.github.io/spring-2026-data/iiif/smith.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
           { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/smith.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
