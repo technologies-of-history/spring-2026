@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jane Allinger 
-title: First Post
+title: Digital Tools Assignment Two
 excerpt-separator: <!--more-->
 ---
 
