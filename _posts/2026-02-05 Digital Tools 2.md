@@ -19,9 +19,6 @@ var marker = L.marker([41.88, 12.49]).addTo(map).bindPopup('Roma').openPopup();
 var marker = L.marker([39.16, 8.48]).addTo(map).bindPopup('Sulci').openPopup();
 var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis').openPopup();  
 </script>
-</div>
-</html>
-<html>
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
   <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
