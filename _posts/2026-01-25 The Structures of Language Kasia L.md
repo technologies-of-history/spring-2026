@@ -2,6 +2,7 @@
 layout: post
 author: Kasia K. Love
 title: Digital Tools 1
+excerpt_separator: <!--more-->
 ---
 # The Structures of Language
 
