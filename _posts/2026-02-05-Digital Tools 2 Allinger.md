@@ -21,7 +21,7 @@ In MacMullen's Epigraphic Habit he mentions how stone epigraphs were culturally 
   <div id="map" style="position: relative; height: 500px; width: 100%;"></div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script>
-  const map = L.map('map').setView([35.30, 25.16], 6);
+  const map = L.map('map').setView([35.30, 25.16], 10);
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -36,8 +36,6 @@ In MacMullen's Epigraphic Habit he mentions how stone epigraphs were culturally 
 </script>
 </div>
 </html>
-
-And here's a test run of the Mirador viewer with new IIIF manifest hosted at spring-data-2026.
 
 <html>
 <div style="margin: 2rem 0;">
