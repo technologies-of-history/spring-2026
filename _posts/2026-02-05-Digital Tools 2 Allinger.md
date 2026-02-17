@@ -5,6 +5,15 @@ title: Digital Tools Assignment Two
 excerpt-separator: <!--more-->
 ---
 
+The inscription I chose is an honorific inscription originally found In Cnossus Greece, which is now modern day Heraklion in Crete. This inscription is written in Latin by an unknown author. The inscription itself is in relatively good shape, except it looks like the top half of the monument could be missing. The translation of the inscription refers to a male by the name of Q. Refrio Thegenis f. Col. Theageni or Quintus Refrius Theagens. The inscription goes on to say that he is the son of Collina Theageni, whether this is an order, tribe, or person is not completely clear. It also mentions he is a member of local office of the decurial order. This is labeled as a honorific and not a epitaph or tombstone. 
+
+<!--more-->
+
+My map shows that Roman epigraphs were not limited to one specific town or village. But were spread along multiple miles of land. I narrowed my map down to only seven locations, but there was originally over forty inscriptions, and those are just the ones that had digital images. I think this shows that the Roman attitude towards stone inscriptions was positive. As they made it a point to create multiple public monuments that included this stone writing all over the region, even on a relatively small island like Crete. 
+
+In MacMullen's Epigraphic Habit he mentions how stone epigraphs were culturally important to the Roman Empire. He specifically says "…the habit was an aspect of culture, not a practical necessity." (MacMullen 238) His reference to cultural significance highlights why we have so many well documented and surviving inscriptions. These writings were meant for communities. Thought, effort, and funds were required to create them and they were erected for all to see, not for just one person. This concept isn't hard to wrap your head around, but getting to have a visual representation helps people understand even better the importance of epigraphy in Roman society. The use of digital tools, imaging, and especially mapping, shows us just how vast a collection of stone inscriptions there are. Making it way easier for the general population to understand this was not a one off way of communicating, this was the way. Epigraphy was significant, extensive, and meaningful to the Roman people. Which is something I don't think you'd be able to fully grasp unless you had the backing digital tools provide. 
+
+
 <html>
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
