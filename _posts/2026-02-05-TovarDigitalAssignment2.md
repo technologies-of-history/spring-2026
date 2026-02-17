@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
   <div id="map" style="position: relative; height: 500px; width: 100%;"></div>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script>
-    const map = L.map('map').setView([(35.80590 25.56563, 42.29700 44.81766)], 6);
+    const map = L.map('map').setView([35.80590 25.56563, 42.29700 44.81766)], 6);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
