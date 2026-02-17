@@ -7,9 +7,11 @@ excerpt_separator: <!--more-->
 
 # Communication: A Limitation or a Liberation?
 
-![<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/734865fa-c779-4363-b166-da641a1924f7" />](https://www.britishmuseum.org/sites/default/files/styles/1_1_media_small/public/2022-06/Flood-Tablet-cuneiform-Epic-of-Gilgamesh-1960x1547.jpg?h=e6c47265&itok=63WgM9rm)
+![cuneiform tablet against a black backdrop](https://www.britishmuseum.org/sites/default/files/styles/1_1_media_small/public/2022-06/Flood-Tablet-cuneiform-Epic-of-Gilgamesh-1960x1547.jpg?h=e6c47265&itok=63WgM9rm){:width="750px" .right-image}
 
 As language shifts from cuneiform to alphabetic writing, this change suggests that the physical structure of language directly shapes how its speakers communicate. As the boundaries of communication expand, humans are able to convey increasingly complex ideas and thoughts. The shift from Mesopotamian cuneiform to the Grecian alphabet represents a more logical system capable of defining abstract concepts.
+
+<!--more-->
 
 Goody and Watt argue that the Greek alphabet with the first to posess a "comprehensively and exclusively phonetic system" (314). This suggests that prior to the creation of a phonetic means of communication, complex thoughts and ideas could not have been conveyed. As the alphabet was standardized, literacy is more easily taught, which disrupted the prior tradition means of oral heritage. Through the popularization of literacy, written records have asserted a more "objective recognition" of the past, which eliminates inconsistencies that would have been characteristic of oral tradition (Goody & Watt 311).
 
