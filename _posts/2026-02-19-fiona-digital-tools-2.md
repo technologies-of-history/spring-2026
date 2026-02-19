@@ -34,3 +34,24 @@ var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopoli
 </html>
 
 ---
+<html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+  
+  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
+  
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script>
+      const mirador = Mirador.viewer({
+        id: "my-mirador",
+        manifests: {
+          "[URLforyourmanifest.json](https://edh.ub.uni-heidelberg.de/iiif/edh/F002340.manifest.json)": { provider: "Epigraphic Database Heidelberg" }
+        },
+        windows: [
+          { loadedManifest: "[URLforyourmanifest.json](https://edh.ub.uni-heidelberg.de/iiif/edh/F002340.manifest.json)", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+        ]
+      })();
+</script>
+</div>
+</html
