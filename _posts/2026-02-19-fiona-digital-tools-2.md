@@ -33,7 +33,7 @@ var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopoli
 </div>
 </html>
 
----
+
 <html>
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
@@ -46,7 +46,8 @@ var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopoli
       const mirador = Mirador.viewer({
         id: "my-mirador",
         manifests: {
-          "[URLforyourmanifest.json](https://edh.ub.uni-heidelberg.de/iiif/edh/F002340.manifest.json)": { provider: "Epigraphic Database Heidelberg" }
+        "https://technologies-of-history.github.io/spring-2026-data-iiif/corrigan1.json":
+          "https://technologies-of-history.github.io/spring-2026-data-iiif/corrigan1.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
           { loadedManifest: "[URLforyourmanifest.json](https://edh.ub.uni-heidelberg.de/iiif/edh/F002340.manifest.json)", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
