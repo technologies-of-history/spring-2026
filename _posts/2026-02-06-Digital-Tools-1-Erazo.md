@@ -1,7 +1,7 @@
 ---
 layout: post
-author: Vivian Velazquez
-title: Digital Tools 1
+author: camila erazo
+title: digital tools 1
 excerpt_separator: <!--more-->
 ---
 
