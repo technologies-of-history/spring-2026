@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 # Writing and technology
 
 ![Babylonian Kudurru Tablet](https://cdli.earth/dl/photo/P257300_d.jpg)
-*Middle Babylonian kudurru (boundary stone), c. 1400 to 1100 BCE. Source: [Cuneiform Digital Library Initiative](https://cdli.earth/artifacts/257300).*
+
 
 Goody argues that writing fundamentally alters cognitive processes by enabling abstraction, classification, and critical reflection. Lists, tables, and written records allow knowledge to be decontextualized and reorganized in ways that oral cultures cannot sustain as easily (Goody 75). Writing makes it possible to compare, revise, and systematize ideas across time and space. In this sense, literacy is not merely a neutral recording device but a “technology of the intellect” that restructures reasoning itself (Goody 19).
 <!--more-->
@@ -17,3 +17,4 @@ Van De Mieroop, particularly in A History of the Ancient Near East, approaches w
 <!--more-->
 [TCU Library](https://library.tcu.edu/) Got most of my information for vistiting the Database at the Tcu Library 
 
+<img width="650" height="368" alt="image" src="https://github.com/user-attachments/assets/68a3983e-66cb-4b90-9886-68a088d76787" />
