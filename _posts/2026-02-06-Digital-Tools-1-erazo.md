@@ -17,5 +17,3 @@ Van De Mieroop, particularly in A History of the Ancient Near East, approaches w
 <!--more-->
 [TCU Library](https://library.tcu.edu/) Got most of my information for vistiting the Database at the Tcu Library 
 
-
-![[Image alt text](https://www.insidehighered.com/news/2022/10/26/machines-can-craft-essays-how-should-writing-be-taught-now)](link to image url){:width="270px" .right-image} 
