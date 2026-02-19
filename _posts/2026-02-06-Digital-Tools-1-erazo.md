@@ -17,3 +17,5 @@ Van De Mieroop, particularly in A History of the Ancient Near East, approaches w
 <!--more-->
 [TCU Library](https://library.tcu.edu/) Got most of my information for vistiting the Database at the Tcu Library 
 
+https://www.insidehighered.com/sites/default/files/styles/max_650x650/public/media/GettyImages-1160331590.jpg?itok=Ju2qHDbz
+
