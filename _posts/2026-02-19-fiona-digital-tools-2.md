@@ -3,7 +3,6 @@ layout: post
 title: "Digital Tools Assignment 2: Arabia Maps and Mirador Viewer"
 author: Fiona Corrigan
 ---
-
 ## Arabia Inscriptions Leaflet Map
 
 <html>
@@ -28,7 +27,6 @@ var marker = L.marker([31.767959, 35.725677]).addTo(map).bindPopup('Nebo, bei').
 var marker = L.marker([30.328611, 35.441944]).addTo(map).bindPopup('Petra').openPopup();
 var marker = L.marker([31.954951, 35.934624]).addTo(map).bindPopup('Philadelphia').openPopup();
 var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopolis').openPopup();
-
 </script>
 </div>
 </html>
