@@ -5,8 +5,6 @@ title: Smithdocument
 excerpt_separator: <!--more-->
 ---
 
-This is a test of the scripts.
-
 <html>
 <div style="margin: 2rem 0;">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
@@ -49,3 +47,7 @@ L.marker([35.138224, 32.813067]).addTo(map).bindPopup('Soli, bei').openPopup();
 </script>
 </div>
 </html>
+
+This is an inscryption from Salamis, an ancient city state located on the eastern coast of Cyprus. It was documented in 1973 by L'Année Épigraphique. I can tell it somehow addresses the Ceasar of it's time, and also Germany. This clearly has some sort of declarative importance though, as describing Ceasar and the germans implies some sort of interaction between them, possibly warfare or diplomacy.
+Many of these inscryptions were located near the eastern coast with monuments like the House of Dionysus or a roman theater. By having inscryption near monuments, we can infer that these were written to declare certain messages to the common people who visit these monuments. Considering the inscryption above talked about Ceasar and the Germans, it's very likely that this was a declaration of some sort of victory, battle or treaty with the Germans to inform or encourage the roman people.
+MacMullen’s article on the “epigraphic habit” in Rome found that the trend in Roman inscyption was done for a need to convey certain ideas to certain audiences. By being able to digitally compare these inscryptions side by side, our understanding of the intention/method of inscrybing is only amplified. We can better compare the text, method of writing and material of the inscryption which can change how we interpret Roman history as a whole.
