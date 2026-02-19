@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Arabia Inscriptions Map</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+<style>
+#map {
+height: 500px;
+width: 100%;
+}
+</style>
+
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+
+// create map centered on Arabia
+var map = L.map('map').setView([24, 45], 5);
+
+// add OpenStreetMap background
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+// load your CSV data
+fetch('../arabia-inscriptions.csv')
+.then(response => response.text())
+.then(data => {
+
+var rows = data.split('\n');
+
+rows.forEach(function(row, index){
+
+if(index === 0) return;
+
+var cols = row.split(',');
+
+var lat = parseFloat(cols[0]);
+var lon = parseFloat(cols[1]);
+var name = cols[2];
+
+if(!isNaN(lat) && !isNaN(lon)){
+
+L.marker([lat, l]()
