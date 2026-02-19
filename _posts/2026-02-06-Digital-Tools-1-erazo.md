@@ -15,5 +15,5 @@ Goody argues that writing fundamentally alters cognitive processes by enabling a
 
 Van De Mieroop, particularly in A History of the Ancient Near East, approaches writing less as a cognitive revolution and more as a social and political instrument. He shows how early writing in Mesopotamia developed primarily for administrative and economic purposes—tracking goods, labor, and taxation ( Mieroop 34). Writing was embedded in institutions of power and bureaucracy. Literacy was restricted, and control over writing meant control over economic and political authority. Rather than democratizing knowledge.
 <!--more-->
-[TCU Library](https://library.tcu.edu/)
+[TCU Library](https://library.tcu.edu/) Got most of my information for vistiting the Database at the Tcu Library 
 
