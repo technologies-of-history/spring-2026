@@ -42,10 +42,10 @@ var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis').op
       const mirador = Mirador.viewer({
         id: "my-mirador",
         manifests: {
-          "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json": { provider: "Epigraphic Database Heidelberg" }
+          "https://edh.ub.uni-heidelberg.de/iiif/edh/HD025182.manifest.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
-          { loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+          { loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/HD025182.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
       })();
 </script>
