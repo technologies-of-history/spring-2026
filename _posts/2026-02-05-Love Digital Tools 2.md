@@ -18,13 +18,13 @@ excerpt_separator: <!--more-->
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
-var marker = L.marker([40.29, 8.49]).addTo(map).bindPopup('Bosa');
-var marker = L.marker([39.21, 9.10]).addTo(map).bindPopup('Carales');
-var marker = L.marker([40.09, 8.50]).addTo(map).bindPopup('Cornus');
-var marker = L.marker([38.98, 9.015]).addTo(map).bindPopup('Nora');
-var marker = L.marker([40.92, 9.50]).addTo(map).bindPopup('Olbia');
-var marker = L.marker([39.16, 8.48]).addTo(map).bindPopup('Sulci');
-var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis');  
+var marker = L.marker([40.29, 8.49]).addTo(map).bindPopup('Bosa').openPopup();
+var marker = L.marker([39.21, 9.10]).addTo(map).bindPopup('Carales').openPopup();
+var marker = L.marker([40.09, 8.50]).addTo(map).bindPopup('Cornus').openPopup();
+var marker = L.marker([38.98, 9.015]).addTo(map).bindPopup('Nora').openPopup();
+var marker = L.marker([40.92, 9.50]).addTo(map).bindPopup('Olbia').openPopup();
+var marker = L.marker([39.16, 8.48]).addTo(map).bindPopup('Sulci').openPopup();
+var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis').openPopup();  
 </script>
 </div>
 </html>
@@ -45,9 +45,9 @@ var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis');
           "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
-          {loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+          { loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/F002254.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
-      });
+      })();
 </script>
 </div>
 </html> 
