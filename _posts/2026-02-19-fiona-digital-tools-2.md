@@ -3,6 +3,7 @@ layout: post
 title: "Digital Tools Assignment 2: Arabia Maps and Mirador Viewer"
 author: Fiona Corrigan
 ---
+
 ## Arabia Inscriptions Leaflet Map
 
 <html>
@@ -54,3 +55,11 @@ var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopoli
 </script>
 </div>
 </html
+
+## Written Analysis 
+
+My chosen inscription was found in the Roman Province of Arabia, in what is now modern-day Jordan. The original date of my inscription is unknown, and at first glance, I was able to recognize many individual Greek letters, although I could not immediately understand the full message. After further research, this inscription uses Koine Greek, suggesting it was made during the Roman imperial period when Greek was a widely used language in the eastern provinces, just like where my inscription was found. After translating my inscription, it reads as a commemoration of someone’s death, saying “Prokopas, son of Mnon, (and) Anastasius Karpo-geron Philagon, and Statina his mother, (set this up) in memory.” This shows that the stone was put up as a memorial to remember and honor the deceased. The stone is carefully carved and durable, which mirrors the Roman practice of creating long-lasting memorials. 
+
+While examining the map of inscriptions from the Arabian province, it is clear that these inscriptions are mostly found in towns, cities, and along major routes rather than being evenly distributed across the region. A lot of these inscriptions were found near settlements and important infrastructure, likely because they may be connected to areas where Roman administration was active. It is very likely that these memorial monuments would be found in hubs of activity for the people in these civilizations. 
+
+Digital tools like high-res imaging and digital mapping are incredibly impactful in terms of how historians interpret the rise and fall of the “epigraphic habit” in Roman society. The inscriptions served not only as records for practical purposes but also demonstrate how these Romans saw themselves and their place in society. MacMullen argues that inscriptions were “a specially useful window through which we may examine that world,” because of how they reveal what and who people chose to memorialize. High-res imaging allows historians to look closer at these habits. They’re able to see inscriptions that have been damaged or worn up closer, making it simpler to identify letters and produce more accurate translations. Digital mapping allows historians to think in terms of geography and analyze how different inscriptions were distributed across a region, allowing them to identify patterns in where they are found and why they are created. It also helps to better understand cultural diffusion across a province. Digital tools strengthen our ability to understand the rise and decline of the epigraphic habit by making inscriptions more accessible, visible, and analyzable than ever before.
