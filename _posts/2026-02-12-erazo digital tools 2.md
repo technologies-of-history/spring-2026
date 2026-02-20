@@ -17,11 +17,18 @@ excerpt_separator: <!--more-->
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
-var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
-var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
-var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
-var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
-var marker = L.marker([46.59, 1.52]).addTo(map).bindPopup('Argentomagus').openPopup();
+var marker = L.marker([32.52, 36.48]).addTo(map).bindPopup('bostra').openPopup();
+var marker = L.marker([32.75, 36.61]).addTo(map).bindPopup('canatha').openPopup();
+var marker = L.marker([33.51, 36.28]).addTo(map).bindPopup('damascus').openPopup();
+var marker = L.marker([30.31, 35.47]).addTo(map).bindPopup('petra').openPopup();
+var marker = L.marker([31.81, 35.96]).addTo(map).bindPopup('philadelphia').openPopup();
+var marker = L.marker([32.85, 36.63]).addTo(map).bindPopup('philippopolis').openPopup();
+var marker = L.marker([33.43, 35.73]).addTo(map).bindPopup('kfeir abu sarbut').openPopup();
+var marker = L.marker([35.00, 38.76]).addTo(map).bindPopup('ll haiyât').openPopup();
+var marker = L.marker([36.33, 36.85]).addTo(map).bindPopup('qal at sim an').openPopup();
+var marker = L.marker([32.63, 36.09]).addTo(map).bindPopup('hauran').openPopup();
+var marker = L.marker([32.73, 36.06]).addTo(map).bindPopup('tafas').openPopup();
+var marker = L.marker([31.88, 36.82]).addTo(map).bindPopup('qasr al-azraq').openPopup();
 </script>
 </div>
 </html>
