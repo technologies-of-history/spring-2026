@@ -38,5 +38,3 @@ var marker = L.marker([31.88, 36.82]).addTo(map).bindPopup('qasr al-azraq').open
 I feel like it was very creative the way they carved scriptures into stone or anything in general. For that reason we still have a lot of scriptures still to this day instead of them doing it on a paper like material that would have damaged the scripture a long time ago. 
 <!--more-->
 Ramsay MacMullen’s concept of the “epigraphic habit” describes the marked rise and eventual decline of inscribed texts in the Roman world, especially between the first century BCE and the third century CE. He interpreted this pattern largely through surviving inscription counts and connected it to broader social, political, and cultural shifts.
-
-
