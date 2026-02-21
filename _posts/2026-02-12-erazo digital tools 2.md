@@ -32,26 +32,4 @@ var marker = L.marker([31.88, 36.82]).addTo(map).bindPopup('qasr al-azraq').open
 </script>
 </div>
 </html>
-
-<html>
-<div style="margin: 2rem 0;">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
-  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
-  
-  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
-  
-  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-    <script>
-      const mirador = Mirador.viewer({
-        id: "my-mirador",
-        manifests: {
-          "URLforyourmanifest.json": { provider: "Epigraphic Database Heidelberg" }
-        },
-        windows: [
-          { loadedManifest: "URLforyourmanifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
-        ]
-      })();
-</script>
-</div>
-</html>
-
+https://edh.ub.uni-heidelberg.de/iiif/edh/F000870.manifest.json 
