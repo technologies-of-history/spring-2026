@@ -1,29 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
+---
+layout: default
+title: Interactive Map and Viewer
+---
 
-  <!-- Leaflet CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+<link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
 
-  <!-- Mirador CSS -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
-  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
-</head>
-
-<body>
-
-<!-- Leaflet Map -->
 <div style="margin: 2rem 0;">
   <div id="map" style="height: 500px; width: 100%;"></div>
 </div>
 
-<!-- Mirador Viewer -->
 <div style="margin: 2rem 0;">
   <div id="my-mirador" style="height: 500px; width: 100%;"></div>
 </div>
 
-<!-- Leaflet JS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
@@ -41,7 +32,6 @@
   L.marker([32.5, 37.5]).addTo(map).bindPopup('Phoenice');
 </script>
 
-<!-- Mirador JS -->
 <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
 
 <script>
@@ -61,6 +51,3 @@
     ]
   });
 </script>
-
-</body>
-</html>
