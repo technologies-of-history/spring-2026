@@ -32,81 +32,26 @@ var marker = L.marker([31.88, 36.82]).addTo(map).bindPopup('qasr al-azraq').open
 </script>
 </div>
 </html>
-{
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/F002818.manifest.json",
-  "@type": "sc:Manifest",
-  "attribution": "Heidelberger Akademie der Wissenschaften / Epigraphische Datenbank Heidelberg",
-  "description": "Image(s) taken from the Epigraphic Database Heidelberg",
-  "label": "EDH Image F002818",
-  "license": "https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz",
-  "metadata": [
-    {
-      "label": "Provinz / Italische Region",
-      "value": "Pannonia superior"
-    },
-    {
-      "label": "Land",
-      "value": "Austria"
-    },
-    {
-      "label": "Fundort antik",
-      "value": "Gerulata, bei"
-    },
-    {
-      "label": "Fundort modern",
-      "value": "Zurndorf"
-    },
-    {
-      "label": "Aufbewahrung",
-      "value": "Mosonmagyaróvár, Hansági Múz."
-    }
-  ],
-  "sequences": [
-    {
-      "@type": "sc:Sequence",
-      "canvases": [
-        {
-          "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F002818",
-          "@type": "sc:Canvas",
-          "height": 1573,
-          "images": [
-            {
-              "@context": "http://iiif.io/api/presentation/2/context.json",
-              "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/annotation/F002818",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "on": "https://edh.ub.uni-heidelberg.de/iiif/edh/canvas/F002818",
-              "resource": {
-                "@id": "https://edh.ub.uni-heidelberg.de/iiif/edh/resource/F002818",
-                "@type": "dctypes:Image",
-                "format": "image/png",
-                "height": 1573,
-                "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://heidicon.ub.uni-heidelberg.de/iiif/2/1415590%3A763891",
-                  "profile": "http://iiif.io/api/image/2/level2.json"
-                },
-                "width": 982
-              }
-            }
-          ],
-          "label": "F002818",
-          "metadata": [
-            {
-              "label": "Foto ID",
-              "value": "https://edh.ub.uni-heidelberg.de/edh/foto/F002818"
-            },
-            {
-              "label": "Photo credits",
-              "value": "© G. Alföldy"
-            }
-          ],
-          "width": 982
-        }
-      ],
-      "label": "EDH Sequence"
-    }
-  ]
-}
+
+<html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+  
+  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
+  
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script>
+      const mirador = Mirador.viewer({
+        id: "my-mirador",
+        manifests: {
+          "URLforyourmanifest.json": { provider: "Epigraphic Database Heidelberg" }
+        },
+        windows: [
+          { loadedManifest: "URLforyourmanifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+        ]
+      })();
+</script>
+</div>
+</html>
 
