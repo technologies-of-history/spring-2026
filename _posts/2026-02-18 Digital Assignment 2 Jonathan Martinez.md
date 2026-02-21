@@ -3,6 +3,8 @@ layout: default
 title: Interactive Map and Viewer
 ---
 
+{% raw %}
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
@@ -51,3 +53,5 @@ title: Interactive Map and Viewer
     ]
   });
 </script>
+
+{% endraw %}
