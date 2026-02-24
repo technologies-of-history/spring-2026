@@ -45,6 +45,15 @@ Ramsay MacMullen’s concept of the “epigraphic habit” describes the marked 
   <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
   
   <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+  
+  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
+  
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+  <html>
     <script>
       const mirador = Mirador.viewer({
         id: "my-mirador",
@@ -58,3 +67,5 @@ Ramsay MacMullen’s concept of the “epigraphic habit” describes the marked 
 </script>
 </div>
 </html>
+
+
