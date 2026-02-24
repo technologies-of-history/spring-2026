@@ -36,5 +36,25 @@ var marker = L.marker([31.88, 36.82]).addTo(map).bindPopup('qasr al-azraq').open
  I do understand the letters but I'm not able to read or deceive what it says. 
 <!--more-->
 I feel like it was very creative the way they carved scriptures into stone or anything in general. For that reason we still have a lot of scriptures still to this day instead of them doing it on a paper like material that would have damaged the scripture a long time ago. 
-<!--more-->
 Ramsay MacMullen’s concept of the “epigraphic habit” describes the marked rise and eventual decline of inscribed texts in the Roman world, especially between the first century BCE and the third century CE. He interpreted this pattern largely through surviving inscription counts and connected it to broader social, political, and cultural shifts.
+<html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+  
+  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
+  
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script>
+      const mirador = Mirador.viewer({
+        id: "my-mirador",
+        manifests: {
+          "https://technologies-of-history.github.io/spring-2026-data/iiif/erazo.json": { provider: "Epigraphic Database Heidelberg" }
+        },
+        windows: [
+          { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/erazo.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+        ]
+      })();
+</script>
+</div>
+</html>
