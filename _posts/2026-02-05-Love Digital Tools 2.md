@@ -54,7 +54,7 @@ var marker = L.marker([40.83, 8.39]).addTo(map).bindPopup('Turris Libisonis').op
 
 ## Historical Inscriptions in Roman Sardania
 The inscription I chose comes from Turris Libisonis, a Roman town in Sardinia, modern day Porto Torres. The inscription features the names CN CORNELIVS and CLADIVS, which translates to Cn(aeus) Cornelius and Cladus I(sidi) v(otum) s(olvit), meaning Cornelius dedicated a statue to the Egyptian goddess Isis. At first I was surprised to find Egyptian religious influence in Sardinia, but when I researched further I found just how influential the goddess Isis was across the Rome. In Sardinia she was worshipped as a goddess of navigation and fertitlity, similar to more common Roman deities like Venus and Aphrodite. The letters on the inscription were relatively easy to make out since they are large, deeply carved, and all capitalized.
-
+<!--more-->
 My map of surviving inscriptions from Sardinia shows that the "epigraphic habit" was primarily in towns around the island, such as Bosa, Turris Libisonis, and Carales. This shows that Romans in Sardinia used inscriptions primarily as a public way of recording religious dedications, honoring people, and keeping records in community spaces rather than private areas.
 
 As MacMullen argues, the "epigraphic habit" rose and fell between shifts in Roman society and culture. I don't think digital tools take away from how historians interpret this at all. I believe they change how we engage with these inscriptions. High resolution imaging lets us examine details that would be hard to see in person, and digital mapping helps us visualize patterns across entire provinces. Together they give us a better and more accessible understanding of how Romans used writing in their everyday lives.
