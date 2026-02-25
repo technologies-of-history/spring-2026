@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Tools Assignment 2: Arabia Maps and Mirador Viewer
+title: Digital Tools Assignment 2, Arabia Maps and Mirador Viewer
 author: Fiona Corrigan
 excerpt_separator: <!--more-->
 ---
