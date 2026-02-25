@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Digital Tools Assignment 2: Arabia Maps and Mirador Viewer"
+title: Digital Tools Assignment 2: Arabia Maps and Mirador Viewer
 author: Fiona Corrigan
+excerpt_separator: <!--more-->
 ---
 
 ## Arabia Inscriptions Leaflet Map
@@ -45,16 +46,17 @@ var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopoli
       const mirador = Mirador.viewer({
         id: "my-mirador",
         manifests: {
-        "https://technologies-of-history.github.io/spring-2026-data-iiif/corrigan1.json":
-          "https://technologies-of-history.github.io/spring-2026-data-iiif/corrigan1.json": { provider: "Epigraphic Database Heidelberg" }
+        "https://technologies-of-history.github.io/spring-2026-data/iiif/corrigan1.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
-          { loadedManifest: "[URLforyourmanifest.json](https://edh.ub.uni-heidelberg.de/iiif/edh/F002340.manifest.json)", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+          { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/corrigan1.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
       })();
 </script>
 </div>
 </html
+
+<!--more-->
 
 ## Written Analysis 
 
