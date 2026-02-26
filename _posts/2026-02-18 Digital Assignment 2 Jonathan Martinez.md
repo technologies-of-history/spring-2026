@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Digital Tools Assignment 2 | Jonathan Martinez
+title: Digital Tools Assignment 2 Jonathan Martinez
 ---
-
+excerpt_separator: <!--more-->```
   For this assignment, I have chosen a inscription that was found in the province of Epirus in Buthrotum. The inscription is an epitaph (sort of words dedicated for someone who passed) which was predicted to have been "used" in 50 BC - 50 AD. Since it was found in the Roman Empire, the language it was found in was latin. It was written on a tabula (in this case on Marmor), wit its dimensions being 32 cm in height, 24 cm in width and with the letters being 2.1 cm. It was written for a "Caecilius Epagatus" a man. There are a couple letters that can be made it simply with just looking at it, for example some word "PAGAT"
 
   What the map I made of the surviving inscriptions that were found can actually help us identify the way that Roman people practiced epigraphs. For example, one of the locations, Buthrotum, seems to show an epigraph that happens to be in a sort of monuments, whilst the one that I have shown an image of below is simply just a piece of marble, by itself. This can show that that epigraph was found in a town.
@@ -42,10 +42,10 @@ var marker = L.marker([32.5, 37.5]).addTo(map).bindPopup('Phoenice').openPopup()
       const mirador = Mirador.viewer({
         id: "my-mirador",
         manifests: {
-          "https://edh.ub.uni-heidelberg.de/iiif/edh/HD005856.manifest.json": { provider: "Epigraphic Database Heidelberg" }
+          "https://technologies-of-history.github.io/spring-2026-data/iiif/martinez.json": { provider: "Epigraphic Database Heidelberg" }
         },
         windows: [
-          { loadedManifest: "https://edh.ub.uni-heidelberg.de/iiif/edh/HD005856.manifest.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+          { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/martinez.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
         ]
       })();
 </script>
