@@ -54,7 +54,7 @@ var marker = L.marker([32.853765, 36.627525]).addTo(map).bindPopup('Philippopoli
       })();
 </script>
 </div>
-</html
+</html>
 
 <!--more-->
 
