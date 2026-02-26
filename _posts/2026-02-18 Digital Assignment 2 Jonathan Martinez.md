@@ -26,7 +26,6 @@ var marker = L.marker([40.3790045245, 19.7001398474]).addTo(map).bindPopup('Aman
 var marker = L.marker([39.7455951494, 20.0204278959]).addTo(map).bindPopup('Buthrotum').openPopup();
 var marker = L.marker([39.60813, 19.906703]).addTo(map).bindPopup('Corcyra').openPopup();
 var marker = L.marker([39.60813, 19.906703]).addTo(map).bindPopup('Nicopolis').openPopup();
-var marker = L.marker([32.5, 37.5]).addTo(map).bindPopup('Phoenice').openPopup();
 </script>
 </div>
 </html>
