@@ -68,4 +68,4 @@ In terms of the article on the "epigraphic habit" by MacMullen, the digital age 
 
 MacMullen, Ramsay. “The Epigraphic Habit in the Roman Empire.” American Journal of Philology 103, no. 3 (1982): 233–246.
 
-Lendering, Jona. “Roman Cyprus.” Livius. Last modified August 11, 2020. [https://www.livius.org/articles/place/cyprus/roman-cyprus/].
+Lendering, Jona. “Roman Cyprus.” Livius. Last modified August 11, 2020. (https://www.livius.org/articles/place/cyprus/roman-cyprus/)[https://www.livius.org/articles/place/cyprus/roman-cyprus/].
