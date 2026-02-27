@@ -1,0 +1,71 @@
+---
+layout: post
+author: Andrew Stillwell
+title: Roman Epigraphy in Cyprus
+excerpt_separator: <!--more-->
+---
+<html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+  <div id="map" style="position: relative; height: 500px; width: 100%;"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script>
+    const map = L.map('map').setView([35.020618, 33.251219], 9);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
+var marker = L.marker([34.6640, 32.8877]).addTo(map).bindPopup('Kourion').openPopup();
+var marker = L.marker([34.757212, 32.406593 ]).addTo(map).bindPopup('Nea Paphos').openPopup();
+var marker = L.marker([35.0371591019, 32.4830089816]).addTo(map).bindPopup('Paphos').openPopup();
+var marker = L.marker([34.757212, 32.406593]).addTo(map).bindPopup('Paphus').openPopup();
+var marker = L.marker([35.1847954, 33.9025873]).addTo(map).bindPopup('Salamis').openPopup();
+var marker = L.marker([35.138224, 32.813067]).addTo(map).bindPopup('Soli').openPopup();
+</script>
+</div>
+</html>
+
+
+
+
+
+
+<html>
+<div style="margin: 2rem 0;">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link rel="stylesheet" href="https://unpkg.com/mirador@latest/dist/mirador.min.css">
+  
+  <div id="my-mirador" style="position: relative; height: 500px; width: 100%;"></div>
+  
+  <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script>
+      const mirador = Mirador.viewer({
+        id: "my-mirador",
+        manifests: {
+          "https://technologies-of-history.github.io/spring-2026-data/iiif/stillwell.json": { provider: "Epigraphic Database Heidelberg" }
+        },
+        windows: [
+          { loadedManifest: "https://technologies-of-history.github.io/spring-2026-data/iiif/stillwell.json", canvasIndex: 0, thumbnailNavigationPosition: 'none' }
+        ]
+      })();
+</script>
+</div>
+</html>
+
+<!--more-->
+## Roman Epigraphy: Cyprus
+
+The artifact looks like it is made from some type of sandstone. The message was left in the ancient city of Kourion, which was located on the southern coast of Cyprus. It does not say when it was left but based on some research epigraphy started in Cyprus around 58 BCE. It is hard to make out what it says due to not knowing the Greek alphabet. The style in which the message was written was a very structured all-caps style. I am unable to read the message, but there are a few words that resemble familiar combinations of letters. There is an "X" in the message as well, which may be used as a title for somebody.
+
+When looking at a map and visualizing the placement of these finds, it is very known that there was a spatial pattern in the "epigraphic habit." The inscriptions are spread out evenly across the coast of major towns. If you reference this with the Pleiades website, you would see that these were not villages but rather massive urban centers with theaters and monumental temples. This would indicate that the "epigraphic habit" was inherently connected with the Romans and their use of carving on stones in urban areas. The Romans wanted to be felt in the urban centers, so by placing the inscriptions on the monuments in the heart of the city, they made sure that the average citizen would be able to feel the presence of the empire as they walked through the biggest places.
+
+In terms of the article on the "epigraphic habit" by MacMullen, the digital age has greatly changed the manner in which historians are able to analyze the rise and fall of what has happened. We live in an age where historians no longer are relegated to printed texts and static images. With the high-resolution images, it is possible to zoom in on the inscriptions and see every little thing on the stone. It would be possible to see what other ways the inscription was used. This would be a clear sign of the "fall" of the "epigraphic habit" as the original inscriptions would no longer be respected. Using mapping we are allowed to zoom in on the inscriptions and see where everything has been in the particular area. If the inscriptions are disappearing in the rural areas but are staying in the fortified cities, this would be a visual for the fall of the Romans that a simple list of dates would not be able to convey.
+
+***
+
+### Sources used
+
+MacMullen, Ramsay. “The Epigraphic Habit in the Roman Empire.” American Journal of Philology 103, no. 3 (1982): 233–246.
+
+Lendering, Jona. “Roman Cyprus.” Livius. Last modified August 11, 2020. (https://www.livius.org/articles/place/cyprus/roman-cyprus/)[https://www.livius.org/articles/place/cyprus/roman-cyprus/].
