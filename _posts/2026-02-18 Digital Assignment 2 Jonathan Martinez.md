@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Digital Tools Assignment 2 Jonathan Martinez
-excerpt_separator: <!--more-->```
+title: Digital Tools Assignment 2 
+author: Jonathan Martinez
+excerpt_separator: <!--more-->
 ---
   For this assignment, I have chosen a inscription that was found in the province of Epirus in Buthrotum. The inscription is an epitaph (sort of words dedicated for someone who passed) which was predicted to have been "used" in 50 BC - 50 AD. Since it was found in the Roman Empire, the language it was found in was latin. It was written on a tabula (in this case on Marmor), wit its dimensions being 32 cm in height, 24 cm in width and with the letters being 2.1 cm. It was written for a "Caecilius Epagatus" a man. There are a couple letters that can be made it simply with just looking at it, for example some word "PAGAT"
 
