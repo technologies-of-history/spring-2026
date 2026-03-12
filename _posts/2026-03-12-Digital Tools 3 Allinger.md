@@ -15,13 +15,13 @@ For me personally there was no XML needed for my page. Although there is great v
 
 
 Malencoly folke thei ben wel in childhood malencolicus <br>
-and in youthe and evel in olde age. 
-As there ben iiij Ages accordynge to the iiij
-humoures of complexions right so there ben
-iiij tymes of the yere and iiij manere of wyndes
-And iiij parties of the worlde the whiche ben
-in temperure or malice accordynge to every com-
-plexionn before saide
+and in youthe and evel in olde age. <br>
+As there ben iiij Ages accordynge to the iiij<br>
+humoures of complexions right so there ben<br>
+iiij tymes of the yere and iiij manere of wyndes<br>
+And iiij parties of the worlde the whiche ben<br>
+in temperure or malice accordynge to every com-<br>
+plexionn before saide<br>
 
 Ver 
 These ben the iiij Somer
