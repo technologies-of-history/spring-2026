@@ -9,6 +9,8 @@ The manuscript page that I transcribed talked a lot about zodiac signs Virgo and
 
 I honestly really enjoyed this process of learning to transcribe middle English. At first I was very intimidated and stared at it and didn't know how to start but once I got the hang of the hard letters I got on a roll and had fun doing it. I had never had to do something like this in any of my classes so I found it really interesting. The handwriting was definitely difficult to get the hang off because the writing is so different from our writing today. They also use a ton of weird things like a capital letter in the middle of the sentence for no reason which would throw me off at times. This definitely took me some time to get through and looking over it multiple times to make sure I didn't miss big things but it made me appreciate this writing and the attention it takes to read old manuscripts. 
 
+<!--more-->
+
 After transcribing it I started to wonder who wrote this? And for whom to read? Also how did people know this was credible and believed it? It seems maybe like something people could use to know what to do when the moon is in these certain zodiac signs. Since I only transcribed this page I bet the other pages also talk about the positions of the moon. So maybe it was written as a book to guide you through the seasons of life. 
 
 For the next question, using MLX markup to transform its utility helps us turn the text into a digital map of the manuscript. This makes it a lot easier for us to zoom in, see it and find important things to compare with another manuscript. This basically makes life a lot easier when searching through a lot of manuscripts. 
@@ -39,4 +41,5 @@ Sangweynn of kynde of that eyre, good tyme
 it is than to begynne alle thynges movynge,
 and forto make a womman stedfast, & also forto
 wedde a womman, & forto be leten blood, & forto
+
 ---
