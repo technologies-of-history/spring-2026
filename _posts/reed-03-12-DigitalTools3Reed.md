@@ -4,6 +4,30 @@ author: Aiden Reed
 title: Reed Digital Tools 3
 excerpt_separator: <!--more-->
 ---
+<!--more-->
+drynke medicyne. And forto hele tho men and
+wommen that ben syke.
+
+<head>Scorpio is coold & moist.</head>
+
+Whan the mone is in scorpionn. that
+is the signe of alusarde. that signe is stedfast cold
+& moist. fleumatyke of kynde of that water.
+than it is good for to drynke medycynable drinke
+& forto be laten blood. And that tyme it is for 
+to eschew to travaile by londe either by water
+forto make edificacyonn & fundementes of
+castelles. and of other comonn houses by that
+water stonding in a mery gronde. & forto sett trees.
+
+<head>Sagittarius hoot & drie</head>
+
+Whan the mone is in the signe of Sagit=
+tarius. that is a signe of an Archere. And is
+hoot & drye. colerike of kynde of that fire.
+than it is good to travaile by contraye and
+by londe. and forto hele tho that been syke.
+
 In my transcription, the text included guidance that functions almost like medical and astrological recipes.
 The passage explains what actions are beneficial depending on the zodiac sign the moon is in. For example, when
 the moon is in Scorpio, which is described as "cold and moist", it recommends drinking medicinal drinks and
