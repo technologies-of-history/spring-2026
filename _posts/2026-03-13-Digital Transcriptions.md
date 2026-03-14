@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 # Digital Transcription
 
-## 69v
+### 69v
 ---
 or to speke with fyghters, and forto touche þe feet 
 of man with iren, for why that signe piscis
@@ -18,7 +18,7 @@ neth that signe unnethe or evere he shal be cone-
 red.
 ---
 
-## 70v
+### 70v
 ---
 This table tellith of digestives.
 symple & compound of every humour. that
