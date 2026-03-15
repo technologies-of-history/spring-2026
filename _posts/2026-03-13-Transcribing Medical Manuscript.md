@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 ## Transcription and Interpretation
 The portion of the manuscript I transcribed consists of a table of chapters outlining different categories of medicinal preparations. These include digestives and laxatives organized according to the humoral system of medicine: choler, phlegm, and melancholy. The text lists both “symple” medicines and “compound” remedies, as well as chapters discussing dosage (“dosis”) and preparation methods. Rather than presenting a single recipe, the passage functions as a structural guide to a larger medical text, indicating how different remedies were categorized and used to treat bodily imbalances. This organization reflects a broader medieval medical framework in which health was understood through balancing the body’s humors. The manuscript I worked with can be viewed in the [Dyngley Manuscript Digital Project](https://technologies-of-history.github.io/dyngley-edition/folios/#/ec/f156/f/f156/text), a student-centered effort to transcribe and digitally reconstruct the medieval medical manuscripts collected by the sixteenth-century English gentleman Henry Dyngley.
 
+<!--more-->
+
 ## Transcription
 ```
 digestives of Coler and compouned. 
