@@ -9,6 +9,7 @@ excerpt_separator: <!--more-->
 The portion of the manuscript I transcribed consists of a table of chapters outlining different categories of medicinal preparations. These include digestives and laxatives organized according to the humoral system of medicine: choler, phlegm, and melancholy. The text lists both “symple” medicines and “compound” remedies, as well as chapters discussing dosage (“dosis”) and preparation methods. Rather than presenting a single recipe, the passage functions as a structural guide to a larger medical text, indicating how different remedies were categorized and used to treat bodily imbalances. This organization reflects a broader medieval medical framework in which health was understood through balancing the body’s humors. The manuscript I worked with can be viewed in the [Dyngley Manuscript Digital Project](https://technologies-of-history.github.io/dyngley-edition/folios/#/ec/f156/f/f156/text), a student-centered effort to transcribe and digitally reconstruct the medieval medical manuscripts collected by the sixteenth-century English gentleman Henry Dyngley.
 
 ## Transcription
+```
 digestives of Coler and compouned. 
 The seconde capit. is of medicynes symple 
 digestives of fleume. and compound. 
@@ -31,6 +32,7 @@ The ix. capit. is of preparacyons of medi-
 cynes laxatives or voidynge of coler. 
 fleume and malencolie. 
 The x. is of medicynes digestatives. 
+```
 
 ### Reflection
 Learning to transcribe Middle English was both challenging and surprisingly engaging. The process required careful attention to letter forms, abbreviations, and spelling conventions that differ from modern English. Certain characters were particularly difficult to interpret, such as the thorn-like symbol with an apostrophe above it that represents the word “the,” demonstrating how scribes used shorthand to write more efficiently. Additionally, the text mixes Latin terminology with English vocabulary, especially in references to medical concepts and chapter headings such as “capit.” for *capitulum*. While these features initially slowed the transcription process, they also made the experience more rewarding, since each unfamiliar symbol required investigation and interpretation. Working through these details gave me a greater appreciation for the skill required of professional transcribers who regularly work with historical manuscripts.
