@@ -5,7 +5,7 @@ title: Transcribing Medical Manuscript
 excerpt_separator: <!--more-->
 ---
 
-# Transcription and Interpretation
+## Transcription and Interpretation
 The portion of the manuscript I transcribed consists of a table of chapters outlining different categories of medicinal preparations. These include digestives and laxatives organized according to the humoral system of medicine: choler, phlegm, and melancholy. The text lists both “symple” medicines and “compound” remedies, as well as chapters discussing dosage (“dosis”) and preparation methods. Rather than presenting a single recipe, the passage functions as a structural guide to a larger medical text, indicating how different remedies were categorized and used to treat bodily imbalances. This organization reflects a broader medieval medical framework in which health was understood through balancing the body’s humors. The manuscript I worked with can be viewed in the [Dyngley Manuscript Digital Project](https://technologies-of-history.github.io/dyngley-edition/folios/#/ec/f156/f/f156/text), a student-centered effort to transcribe and digitally reconstruct the medieval medical manuscripts collected by the sixteenth-century English gentleman Henry Dyngley.
 
 ## Transcription
@@ -34,7 +34,7 @@ fleume and malencolie.
 The x. is of medicynes digestatives. 
 ```
 
-### Reflection
+## Reflection
 Learning to transcribe Middle English was both challenging and surprisingly engaging. The process required careful attention to letter forms, abbreviations, and spelling conventions that differ from modern English. Certain characters were particularly difficult to interpret, such as the thorn-like symbol with an apostrophe above it that represents the word “the,” demonstrating how scribes used shorthand to write more efficiently. Additionally, the text mixes Latin terminology with English vocabulary, especially in references to medical concepts and chapter headings such as “capit.” for *capitulum*. While these features initially slowed the transcription process, they also made the experience more rewarding, since each unfamiliar symbol required investigation and interpretation. Working through these details gave me a greater appreciation for the skill required of professional transcribers who regularly work with historical manuscripts.
 
 This transcription also raised questions about the act of recording medical knowledge in manuscript form. Who was the intended audience for this text? Was it written for a trained medical practitioner, or for a literate household reader seeking practical remedies? The organization of chapters suggests that the manuscript functioned as a reference guide rather than a simple instructional recipe. It also raises questions about how knowledge circulated between medieval and early modern readers. As the Dyngley project demonstrates, many early modern collectors preserved and reused medieval manuscripts because they continued to see value in the knowledge they contained. Rather than disappearing with the rise of new scientific ideas, these texts remained active tools for learning and experimentation.
