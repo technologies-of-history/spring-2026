@@ -9,6 +9,7 @@ On page f069r of this 15th century manuscript of medical knowledge, there are va
 
 <!--more-->
 
+```
 is a signe of Water heldynge. that signe is 
 stedfast hoot and moist. Sangweynn of that kynde
 of that eyre. that signe of that tyme is good 
@@ -31,6 +32,7 @@ synge. forto sette trees. and forto take medycyne.
 and also forto entrete of pees & love. and of
 accorde. In that signe it is to eschue forto mete
 with thyn enemyes or with hostes of kynges.
+```
 
 The following is a link to my transcription in the digital critical edition!:
 https://technologies-of-history.github.io/dyngley-edition/folios/#/ec/f152/f/f152/text
