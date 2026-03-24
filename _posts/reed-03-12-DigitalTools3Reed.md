@@ -5,6 +5,7 @@ title: Reed Digital Tools 3
 excerpt_separator: <!--more-->
 ---
 <!--more-->
+```
 drynke medicyne. And forto hele tho men and
 wommen that ben syke.
 
@@ -27,6 +28,7 @@ tarius. that is a signe of an Archere. And is
 hoot & drye. colerike of kynde of that fire.
 than it is good to travaile by contraye and
 by londe. and forto hele tho that been syke.
+```
 
 In my transcription, the text included guidance that functions almost like medical and astrological recipes.
 The passage explains what actions are beneficial depending on the zodiac sign the moon is in. For example, when
