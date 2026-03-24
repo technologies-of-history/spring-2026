@@ -18,7 +18,7 @@ For the next question, using XML markup to transform its utility helps us turn t
 As the next question asked, Pamela Smith says that writing is basically translating things you already know and writing them clearly on paper. Using the XML tags is a similar concept because it basically translates the manuscript into a digital framework. It puts it into a format that the computer reads by just tagging small things the encoder makes implicit relationships in the manuscript visible. Turning this clear handwritten paper into new ways to view this information and study it. Overall I really enjoyed this assignment more than I expected and had a fun time doing it. 
 
 ```
-<head>Virgo coold and drye.</head>head>
+<head>Virgo coold and drye.</head>
 
 Whan that the mone is in the signe of
 virgo that is of a mayden, that signe is co-
@@ -33,7 +33,7 @@ the water either forto go to batel ne no medicyn
 forto make forto be used for the inwardes of thy 
 body.
 
-<head>Libra hoot and moist.</head>head>
+<head>Libra hoot and moist.</head>
 
 Whan the mone is in libra that is a 
 balannce that signe is movable, hoot & moist.
