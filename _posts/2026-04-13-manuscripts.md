@@ -17,7 +17,7 @@ For the next question, using XML markup to transform its utility helps us turn t
 
 As the next question asked, Pamela Smith says that writing is basically translating things you already know and writing them clearly on paper. Using the XML tags is a similar concept because it basically translates the manuscript into a digital framework. It puts it into a format that the computer reads by just tagging small things the encoder makes implicit relationships in the manuscript visible. Turning this clear handwritten paper into new ways to view this information and study it. Overall I really enjoyed this assignment more than I expected and had a fun time doing it. 
 
----
+```
 <head>Virgo coold and drye.</head>head>
 
 Whan that the mone is in the signe of
@@ -42,4 +42,4 @@ it is than to begynne alle thynges movynge,
 and forto make a womman stedfast, & also forto
 wedde a womman, & forto be leten blood, & forto
 
----
+```
