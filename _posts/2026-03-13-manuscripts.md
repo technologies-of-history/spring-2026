@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kylie Millar
-title: Welcome to Our Course
+title: Transcriptions 
 excerpt_separator: <!--more--> 
 ---
 
