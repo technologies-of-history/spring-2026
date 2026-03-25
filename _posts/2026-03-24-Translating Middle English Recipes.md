@@ -18,6 +18,7 @@ Pamela Smith writes about how communication captured knowledge. Encoding a text 
 
 --- 
 ### You can view my transcription below and see the actual manuscript + other transcriptions [here](https://technologies-of-history.github.io/dyngley-edition/folios/#/ec)
+```
 inm to newe houses. and howsynge. & to bye londe 
 & to erye & to sowe. and forto make all right 
 fulnesse. the tyme is good to eschue & fle to 
@@ -39,3 +40,4 @@ geminis makith armes and bondes.
 <head>Cancer cold and moist.</head>
 Whan the mone is in Cancer. that 
 is a signe & a token of a Crabbe. that is
+```
