@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 # Digital Transcription
 
 ### 69v
----
+```
 or to speke with fyghters, and forto touche þe feet 
 of man with iren, for why that signe piscis
 makith the feet of man & of womman in his
@@ -16,15 +16,15 @@ moder Wombe. And if eny man or womman
 be wounded in the feet whan the mone is under-
 neth that signe unnethe or evere he shal be cone-
 red.
----
+```
 
 ### 70v
----
+```
 This table tellith of digestives.
 symple & compound of every humour. that
 is to say of colere, fleume, and malencolie
 The first chapiter of medicyns symple
----
+```
 
 Honestly, attempting to read these pages was quite overwhelming. The "recipes" I found are not even for food, they’re bizarre medieval medical recipes. Part of the text is curing both man and woman's feet from wounds and what is needed to do this. The other page was a little hard to make out. It seems like the beginning of a new recipe for “digestive.” It is quite absurd to think that in the past, a "recipe" was basically a combination of science and astrology.
 
