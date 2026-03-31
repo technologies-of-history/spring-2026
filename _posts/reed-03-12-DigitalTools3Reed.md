@@ -29,7 +29,7 @@ hoot & drye. colerike of kynde of that fire.
 than it is good to travaile by contraye and
 by londe. and forto hele tho that been syke.
 ```
-
+<!--more-->
 In my transcription, the text included guidance that functions almost like medical and astrological recipes.
 The passage explains what actions are beneficial depending on the zodiac sign the moon is in. For example, when
 the moon is in Scorpio, which is described as "cold and moist", it recommends drinking medicinal drinks and
