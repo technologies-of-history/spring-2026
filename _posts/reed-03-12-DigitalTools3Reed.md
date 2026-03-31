@@ -4,7 +4,6 @@ author: Aiden Reed
 title: Reed Digital Tools 3
 excerpt_separator: <!--more-->
 ---
-<!--more-->
 ```
 drynke medicyne. And forto hele tho men and
 wommen that ben syke.
