@@ -1,3 +1,21 @@
+---
+layout: post
+author: Andrew Stillwell
+title: Geographic Info Systems
+excerpt_separator: <!--more->
+---
+
+#Digital Voyage
 <html> <iframe src="https://storymaps.arcgis.com/stories/f5c05fc389d640a590de6d6775eae0c4" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe> <html>
+
+<!--more-->
+
+I chose Christopher Columbus’s first voyage because it is one of the most well known ones to me. I feel like it is interesting because everyone knows the story of 1492. A lot of people know what he was trying to look for, but not the locations he actually landed. It was nice to be able to map out each location to see actually where he went during his voyage.
+
+Looking at the map I chose you can see exactly how they got it right and how they didn’t. You can see the lines that go all through it which confirms that it was made from compass directions and not actual GPS coordinates. On the right side Europe and Africa are pretty accurate to what they would look like on a map now. On the left however, the land just looks like a big blob. This shows how much people at the time knew about the size and shape of both South and North America. They know that there is land there, but they do not know that they are two huge continents.
+
+Using digital tools to georeference the voyage helps us plot where Columbus went right on the maps that were created after his voyage. It helps us see the first “sketches” of the “New World” taking shape. On the other hand, a negative is that some of the coordinates don’t match up exactly on the map. Since the georeferencing is not totally accurate there could be a map pin in the middle of the ocean. This gap shows how different the maps they created with compasses back then and the maps we create with GPS today are.
+
+I think digital tools like GIS have definitely changed how we see the world, similar to the "tracks on the ocean" Sara Caputo talks about. Her idea is that sailing over the ocean over and over again turned a big empty space into something humans "owned" or understood. GIS takes that a step further because it doesn't just show a line where a ship went, but also layers in data about ocean currents and winds. It turns the straight line voyage to a whole journey. We don't just see where they went, but we see how the physical world, like the winds of the North Atlantic, basically forced them to take that specific path. It makes voyages we record even more accurate than they were before
 
 
