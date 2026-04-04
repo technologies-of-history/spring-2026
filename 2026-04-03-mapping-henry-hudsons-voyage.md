@@ -11,7 +11,7 @@ My historical map really highlighted how limited geographic knowledge was at the
 <!--more-->
 <html>
 <iframe src="https://storymaps.arcgis.com/stories/203027e0e0ac460ebe3d2d2e3c07c55d" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
-</html>
+</html> 
 
 Working with these maps was challenging even in a modern, digital setting, which made me think about how difficult navigation must have been in real time. Plotting the voyage with accurate coordinates helped me better understand the scale and distance of Hudson’s journey, as well as the time it required. The digital format makes the voyage feel more tangible and organized, especially when paired with a timeline and recognizable geographic landmarks. However, this presentation can also obscure reality by making the journey appear more straightforward than it actually was. It does not fully capture the danger, uncertainty, or the physical and emotional conditions experienced by the crew.
 
