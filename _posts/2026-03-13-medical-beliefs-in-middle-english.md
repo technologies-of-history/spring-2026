@@ -2,7 +2,7 @@
 layout: post
 title: Medical Beliefs, Winds, and Humors in Middle English
 author: Fiona Corrigan
-date: 2026-03-13
+excerpt_separator: <!--more-->
 ---
 
 While my transcription was not exactly a recipe, it was still an explanation retaining different medical beliefs at the time, specifically citing the different humors. This page describes different types of people and how they react to different weather and seasons. It talks about how melancholic people are the best in spring, and feel worse in autumn. It also discusses the four winds that we now know as cardinal directions, East, South, West, and North. Every wind is assigned a temperature and moisture quality, and all of these things were believed to impact human health at the time. The text also highlights different types of people, including choleric, sanguine, phlegmatic, and melancholic, and they are all associated with a respective humor. The environment was believed to control health as well as being dependent on balancing different body fluids as well. 
