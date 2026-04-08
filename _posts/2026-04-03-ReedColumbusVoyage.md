@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Aiden Reed
-title:  Reed Digital Tools 4
+title: Reed Digital Tools 4
 excerpt_separator: <!--more-->
 ---
 
