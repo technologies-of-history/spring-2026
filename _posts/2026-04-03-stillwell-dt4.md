@@ -5,7 +5,7 @@ title: Geographic Info Systems
 excerpt_separator: <!--more->
 ---
 
-#Digital Voyage
+# Digital Voyage
 <html> <iframe src="https://storymaps.arcgis.com/stories/f5c05fc389d640a590de6d6775eae0c4" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe> <html>
 
 <!--more-->
