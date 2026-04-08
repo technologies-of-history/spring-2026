@@ -150,6 +150,35 @@ img {
     margin: 0 auto;
 }
 
+.custom-audio-player { 
+  display: block;
+  font-family: $helvetica;
+  background: $gray;
+  width: 90%;
+  padding: 15px;
+  border-radius: 8px;
+  max-width: 800px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+}
+
+.audio-title {
+  font-weight: 300;
+  color: $white;
+  border: solid $white 1px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+  text-transform: uppercase;
+}
+
+.audio-description {
+  color: $white;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 0.9em;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
