@@ -5,7 +5,6 @@ title: Translating Middle English Recipes
 excerpt-separator: <!--more-->
 ---
 
-## Translating Middle English Recipes
 The recipe I transcribed dealt with treating certain illnesses. Specifically, it connects ailments to the astrological signs of Gemini and Cancer. The page had parts of medical advice but majority of it was based on the patient's zodiac sign. This was very confusing to me on why they would be using astrology to give out healing advice. The two are completely disconnected. I also found myself confused of the ingredients listed in the recipe. I was unsure if they were the names of plants, substances, etc. that I wasn’t able to confidently identify them. These struggles I encountered showed me that when this was written the world was completely different. 
 
 <!--more-->

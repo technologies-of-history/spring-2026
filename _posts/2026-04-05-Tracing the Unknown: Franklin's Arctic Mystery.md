@@ -1,10 +1,9 @@
 ---
 layout: post
 author: Vivian Velazquez
-title: "Tracing the Unknown: Franklin's Arctic Mystery"
+title: Tracing the Unknown: Franklin's Arctic Mystery
 excerpt_separator: <!--more-->
 ---
-# Tracing the Unknown: Franklin's Arctic Mystery
 
 <html>
 <iframe src="https://storymaps.arcgis.com/stories/14a7465db3744510b396b7b6ccfcf55e" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
