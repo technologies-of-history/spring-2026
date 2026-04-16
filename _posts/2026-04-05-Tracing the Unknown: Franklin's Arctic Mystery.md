@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Vivian Velazquez
-title: Tracing the Unknown: Franklin's Arctic Mystery
+title: Tracing the Unknown-Franklin's Arctic Mystery
 excerpt_separator: <!--more-->
 ---
 
