@@ -1,9 +1,10 @@
 ---
-layout: post 
+layout: post
 author: Hudson Hahn
 title: London Letters
-excerpt_separator: <!--more--> 
+excerpt_separator: <!--more-->
 ---
+
 <html>
 <div id="cy"></div>
 <script src="https://technologies-of-history.github.io/spring-2026-data/networks/hahn_networks.js"></script>
