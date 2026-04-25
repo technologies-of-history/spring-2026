@@ -1,3 +1,10 @@
+---
+layout: post
+author: Andrew Stillwell
+title: The Republic of Letters
+excerpt_separator: <!--more->
+---
+
 <html>
 <div id="cy"></div>
 <script src="https://technologies-of-history.github.io/spring-2026-data/networks/Stillwell_networks.js"></script>
