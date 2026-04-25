@@ -1,7 +1,7 @@
 ---
 layout: post
 author: David Smith
-title: Post-French Revolution Letter Network
+title: French Thirty Year War Letter Network
 excerpt_separator: <!--more-->
 ---
 
