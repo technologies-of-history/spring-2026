@@ -10,6 +10,9 @@ title: A Network of Letters and Influence
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/vendor.js"></script>
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/main.js"></script>
 </html>
+
+#### The datasets underlying this network analysis were generated through searches of the [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home) database. View the dataset on men corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/corrigan_london_1650_1670_m2w.csv); on women corresponding with men as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/corrigan_london_1650_1670_w2m.csv); and women corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/corrigan_london_1650_1670_w2w.csv).
+
 I selected a dataset focused on correspondence involving women within the early modern Republic of Letters, specifically in London between 1650 and 1670. I chose this specific period of history because I was able to examine correspondence networks during a time of intense political transition and urban crisis, including the Restoration, the Great Plague, and the Great Fire. These conditions likely influenced an influx of communication, making the network especially meaningful to analyze given the events that were occurring. By filtering the dataset to focus on gender, I wanted to better understand how women participated in these networks and whether they acted as central figures or more peripheral contributors.
 
 <!--more-->

@@ -13,6 +13,8 @@ excerpt_separator: <!--more-->
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/main.js"></script>
 </html>
 
+#### The datasets underlying this network analysis were generated through searches of the [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home) database. View the dataset on men corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/millar_men_to_women.csv); on women corresponding with men as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/millar_women_to_men.csv); and women corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/millar_women_to_women.csv).
+
 <!--more-->
 
 I chose this database because I thought it would be interesting to focus on women’s relationship to knowledge in London between 1640 and 1670. This was a time of major political change, so I was curious to see how people communicated, shared information and stayed connected through letters. I picked this network by focusing on collections of letters from this period, since they show communication networks. I was also interested in how women were represented in these communication networks and whether their roles were different from men’s roles. A research question this data might answer is: how often were women communicating compared to men at this time and did women’s connections change over time between 1640 and 1670? 

@@ -23,3 +23,5 @@ I would say this kind of visualization helps us reason where people were during 
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/vendor.js"></script>
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/main.js"></script>
 </html>
+
+#### The datasets underlying this network analysis were generated through searches of the [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home) database. View the dataset on men corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/allinger_men_to_women.csv); on women corresponding with men as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/allinger_women_to_men.csv); and women corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/allinger_women_to_women.csv).

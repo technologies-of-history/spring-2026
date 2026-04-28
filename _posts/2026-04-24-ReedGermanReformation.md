@@ -4,7 +4,6 @@ author: Aiden Reed
 title: German Reformation Republic of Women
 excerpt_separator: <!--more-->
 ---
-German Reformation Republic of Women 
 
 <html>
 <div id="cy"></div>
@@ -13,6 +12,8 @@ German Reformation Republic of Women
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/vendor.js"></script>
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/main.js"></script>
 </html>
+
+#### The datasets underlying this network analysis were generated through searches of the [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home) database. View the dataset on men corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/reed_men_to_women.csv); and on women corresponding with men as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/reed_women_to_men.csv).
 
 <!--more-->
 I chose this dataset of letters from the German Reformation (1500–1540) because as a Christian, it 

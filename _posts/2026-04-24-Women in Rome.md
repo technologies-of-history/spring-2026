@@ -11,6 +11,9 @@ excerpt_separator: <!--more-->
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/vendor.js"></script>
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/main.js"></script>
 </html>
+
+#### The datasets underlying this network analysis were generated through searches of the [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home) database. View the dataset on men corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/tovar_men_to_women.csv); on women corresponding with men as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/tovar_women_to_men.csv); and women corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/tovar_women_to_women.csv).
+
 <!--more-->
 I selected my data sets because as a Catholic Women I was interested in learning more about the literacy of the women living in Rome which is the center of the Catholic Church. Catholicism at least from what I have heard and seen has always valued literacy and critical thinking especially in women and I wanted to see if it was the same back in the 1700s. I wanted to know if this was true or if it was based on false facts given to me because I did attend a Catholic School from Pre-K to 12th Grade. I would assume that if Catholicism valued female literacy, then those women who lived in Rome would be some of the most literate writing the most letters. 
 

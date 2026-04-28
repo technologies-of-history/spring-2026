@@ -13,6 +13,8 @@ excerpt_separator: <!--more-->
 <script src="https://technologies-of-history.github.io/spring-2026-data/scripts/main.js"></script>
 </html>
 
+#### The datasets underlying this network analysis were generated through searches of the [Early Modern Letters Online](http://emlo.bodleian.ox.ac.uk/home) database. View the dataset on men corresponding with women as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/velazquez_men_to_women.csv); on women corresponding with men as a CSV [here](https://technologies-of-history.github.io/spring-2026-data/emlo/velazquez_italy_women_to_men.csv).
+
 The dataset I selected focuses on correspondence networks within seventeenth-century Italy, specifically
 highlighting connections between individuals through written communication. I was interested in how
 intellectual ideas spread during a time when physical distance limited direct interaction, making letter
