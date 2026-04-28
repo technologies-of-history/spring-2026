@@ -2,7 +2,7 @@
 layout: post
 author: Andrew Stillwell
 title: The Republic of Letters
-excerpt_separator: <!--more->
+excerpt_separator: <!--more-->
 ---
 
 
