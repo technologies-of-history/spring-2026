@@ -1,7 +1,9 @@
+---
 layout: post
 author: Katie Tovar
 title: Katie's DT4
 excerpt_separator: <!--more-->
+---
 
 <html>
 <iframe src="https://storymaps.arcgis.com/stories/06692fcb3b9447af832e546207384916" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
