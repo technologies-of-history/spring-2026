@@ -5,7 +5,7 @@ title: Podcast Final
 excerpt_separator: <!--more-->
 ---
 In today’s podcast episode I will be exploring the different types of communication revolutions, and which is deemed most important. Although all revolutions are important because you can’t have one without the other not all of them make the same impact on the world we live in now. Newspaper might not seem as important as others but they started a revolution that is still around today which is one of written opinion. The image shown here is one from the London Gazette which is the first newspaper of London and although the written material is different then what a newspaper has today, it is important to understand the beginnings of the revolution to see where is has grown to today. 
-![London Gazette](https://dn710209.ca.archive.org/0/items/per_london-gazette_the-london-gazette_february-13-16-1747_8719/per_london-gazette_the-london-gazette_february-13-16-1747_8719.pdf){:width="270px" .right-image}
+![London Gazette](https://dn710209.ca.archive.org/0/items/per_london-gazette_the-london-gazette_february-13-16-1747_8719/per_london-gazette_the-london-gazette_february-13-16-1747_8719.pdf)
 <!--more-->
 <html>
 <div class="custom-audio-player">
