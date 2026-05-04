@@ -19,9 +19,9 @@ In today’s podcast episode I will be exploring the different types of communic
 </div>
 </html>
 Sources Cited: 
-[Digital Tools 3 Assignment](https://technologies-of-history.github.io/course/digitaltools3) 
-[Tracks on the Water](https://tcu.primo.exlibrisgroup.com/permalink/01TCU_INST/laq7ds/alma9975182356708721) 
-[Imagined Communities](Reflections on the Origins and Spread of Nationalism: https://hdl.handle.net/2027/heb01609.0001.001)
-[Can Democracy Survive the Internet?](http://library.tcu.edu/PURL/EZproxy_link.asp?url=https://www.proquest.com/scholarly-journals/can-democracy-survive-internet/docview/1890210134/se-2?accountid=7090)
-[Internet Archive](https://dn710209.ca.archive.org/0/items/per_london-gazette_the-london-gazette_february-13-16-1747_8719/per_london-gazette_the-london-gazette_february-13-16-1747_8719.pdf)
+[Digital Tools 3 Assignment](https://technologies-of-history.github.io/course/digitaltools3),  
+[Tracks on the Water](https://tcu.primo.exlibrisgroup.com/permalink/01TCU_INST/laq7ds/alma9975182356708721), 
+[Imagined Communities](Reflections on the Origins and Spread of Nationalism: https://hdl.handle.net/2027/heb01609.0001.001),
+[Can Democracy Survive the Internet?](http://library.tcu.edu/PURL/EZproxy_link.asp?url=https://www.proquest.com/scholarly-journals/can-democracy-survive-internet/docview/1890210134/se-2?accountid=7090),
+[Internet Archive](https://dn710209.ca.archive.org/0/items/per_london-gazette_the-london-gazette_february-13-16-1747_8719/per_london-gazette_the-london-gazette_february-13-16-1747_8719.pdf),
 [Earth Population Mentioned](https://www.globalissues.org/news/2026/03/23/42617)
