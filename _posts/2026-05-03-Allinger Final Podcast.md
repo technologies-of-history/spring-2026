@@ -21,7 +21,7 @@ excerpt-separator: <!--more-->
 
 <!--more-->
 
-# Sources Cited:
+## Sources Cited:
 
 Hugh Sington (Producer), & Sington, D. (Director). (2020). A to Z: The First Alphabet. [Video/DVD] Public Broadcasting Service. Retrieved from https://video.alexanderstreet.com/watch/hour-1
 
