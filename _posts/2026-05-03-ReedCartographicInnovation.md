@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 This podcast will be going over how and why Cartography is the most significant communications revolution
 in history. We will compare cartography to other communication systems to further justify its significance.
-![Sketch illustrating the tour of General W. T. Sherman, in the summer of 1877](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~377422~90143606:Sketch-illustrating-the-tour-of-Gen?mi=19&trs=7904&qvq=q:old%20map;lc:RUMSEY~8~1)
+![Sketch illustrating the tour of General W. T. Sherman, in the summer of 1877](https://media.davidrumsey.com/MediaManager/srvr?mediafile=/Size3/RUMSEY~8~1/222/0895018.jpg)
 <!--more-->
 
 <html>
