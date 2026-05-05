@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 # The Radio: The First Truly Equal Means of Communication
 
-![Alt text]([https://www.penn.museum/img/collections/curatorialsections/babylonian/309016.jpg](https://www.nps.gov/articles/images/1386px-FDR-September-30-1934.jpg?maxwidth=1300&autorotate=false] "FDR's Fireside Chats"){:width="500px" .center-image}
+![FDR's Fireside Chats](https://www.penn.museum/img/collections/curatorialsections/babylonian/309016.jpg){:width="500px" .center-image}
 
 For my final podcast, I chose the invention of the radio as a superior communications revolution. Unlike its predecessors, the radio can be engaged with in a significantly more accessable manner when compared to the invention of the printing press, the republic of letters, and the rise of the newspaper. I hope you enjoy getting to hear my thoughts on how the radio forever changed the way in which we recieve information. <!--more-->
 
