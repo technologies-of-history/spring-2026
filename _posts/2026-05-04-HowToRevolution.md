@@ -49,7 +49,7 @@ Pamela H. Smith argues that the popularization of technical writing was revoluti
 
 Is it the only revolution? No. This is when the intention is what shifted. For example, you have the roman tradition of public writing and epigraphy: inscriptions across everything that could be written into, that has stood the test of time. Their purpose was commemorative, political, and to make sure that the Roman influence was still spreading across their territories.
 
-![Roman inscription (epigraphy) on stone](https://upload.wikimedia.org/wikipedia/commons/6/6a/Res_Gestae_Divii_Augusti.jpg)
+![Bronze Military Diploma Fragment from the MET](https://collectionapi.metmuseum.org/api/collection/v1/iiif/251396/530840/main-image)
 
 It was a sense of national identity. You could be on the furthest outstretches of the Roman lands, but this type of communication was a way that the public was an inscription designed to function as a monument in of itself, like Alison Cooley mentions in her article. Through this, Romans were telling their people, aiming a little also for the people that would succeed them, what was important, who was winning, and that type of writing was also an exercise of public authority. 
 
@@ -69,7 +69,7 @@ We actually got to see the evidence of that when we were transcribing these text
 
 Alright, let’s discuss one final communication revolution in its relation to the foundation of knowledge sharing, which was the importance of the postal service. Yes, it revolutionized communication in a massive way. Governments could communicate with the people, businesses could expand, and families could stay connected more than ever before. That would not have been a possibility or even a desire without the change in the content of the communication itself.
 
-![Historical postal courier system](https://upload.wikimedia.org/wikipedia/commons/3/3b/Pony_Express_advertisement_1860.jpg)
+![Historical postal courier system](https://news.usps.com/wp-content/uploads/2024/07/BenFranklinStamp_story-1.jpg)
 
 I think we’re a little used to this style of instant communication, so that we forget just how revolutionary that this was. 
 
@@ -81,4 +81,4 @@ Let’s take the modern YouTube tutorial for example. I know there’s at least 
 
 Now, if you’ll excuse me, I’ve just remembered a pasta ariabiatta that I saw on an episode of Barefoot Contessa that I’ve been thinking of trying for several days, and I think now is the perfect time to participate in this communications revolution.
 
-![Ina Garten (Barefoot Contessa)](https://upload.wikimedia.org/wikipedia/commons/4/4f/Ina_Garten.jpg)
+![Ina Garten (Barefoot Contessa)](https://d14iv1hjmfkv57.cloudfront.net/assets/inas-world/_1200xAUTO_crop_center-center_none/image.jpg?v=1776358440%2C0.5028%2C0.4276)
