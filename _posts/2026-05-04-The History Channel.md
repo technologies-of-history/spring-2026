@@ -1,13 +1,13 @@
 ---
 layout: post
 author: David Smith
-title: The History Channel: The Invention of Writing/Alphabet as the most consequencial technology!
+title: The History Channel-The Invention of Writing/Alphabet as the most consequencial technology!
 excerpt_separator: <!--more-->
 ---
 
 This Podcast argues that the most consequencial communicative techonlogy was the invention of writing. I've added a pretty fun spin on it, so that it sounds like a history channel segment! I hope you enjoy this listening.
 
-[![Cuneiform](https://cdn.britannica.com/32/197632-050-C3FB90BC/Sumerian-cuneiform-tablet-Erech-Mesopotamia-New-York-2900-bce.jpg)]
+![Cuneiform](https://cdn.britannica.com/32/197632-050-C3FB90BC/Sumerian-cuneiform-tablet-Erech-Mesopotamia-New-York-2900-bce.jpg)
 
 <!--more-->
 
