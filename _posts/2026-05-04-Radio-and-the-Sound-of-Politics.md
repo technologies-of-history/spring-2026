@@ -5,7 +5,7 @@ title: "Radio and the Sound of Politics"
 excerpt_separator: <!--more-->
 ---
 Radio changed the way Americans experienced politics by making mass communication feel personal for the first time. In this podcast, I argue that radio was the most significant communication revolution because it combined the reach of print with the intimacy of voice.
-![Vintage radio](https://images.pexels.com/photos/19039296/pexels-photo-19039296/free-photo-of-close-up-of-a-vintage-radio.jpeg)
+![Vintage radio](https://images.pexels.com/photos/19039296/pexels-photo-19039296/free-photo-of-close-up-of-a-vintage-radio.jpeg){:height="400px" .center-image}
 <!--more-->
 <html>
 <div class="custom-audio-player">
@@ -21,19 +21,19 @@ Radio changed the way Americans experienced politics by making mass communicatio
 ## Sources Cited
 
 Eisenstein, Elizabeth L. “In the Wake of the Printing Press.” *The Quarterly Journal of the Library of Congress*, 1978.  
-https://www.jstor.org/stable/29781778
+[https://www.jstor.org/stable/29781778](https://www.jstor.org/stable/29781778)
 
 Pal, Carol. *Republic of Women: Rethinking the Republic of Letters in the Seventeenth Century*. Cambridge University Press.  
-https://www.cambridge.org/core/books/republic-of-women
+[https://www.cambridge.org/core/books/republic-of-women](https://www.cambridge.org/core/books/republic-of-women)
 
 Taylor, Jordan E. “The Reign of Error: North American Information Politics and the French Revolution, 1789–1795.” *Journal of the Early Republic*, 2019.  
-https://muse.jhu.edu/article/731117
+[https://muse.jhu.edu/article/731117](https://muse.jhu.edu/article/731117)
 
 Roosevelt, Franklin D. “Fireside Chat, April 28, 1935.” Miller Center.  
-https://millercenter.org/the-presidency/presidential-speeches/april-28-1935-fireside-chat
+[https://millercenter.org/the-presidency/presidential-speeches/april-28-1935-fireside-chat](https://millercenter.org/the-presidency/presidential-speeches/april-28-1935-fireside-chat)
 
 Technologies of History. “Digital Tools: Network Analysis with Cytoscape.”  
-https://technologies-of-history.github.io/course/digitaltools5
+[https://technologies-of-history.github.io/course/digitaltools5](https://technologies-of-history.github.io/course/digitaltools5)
 
 Vintage radio image. Pexels.  
-https://www.pexels.com/photo/a-vintage-radio-sitting-on-top-of-a-table-27468541/
+[https://www.pexels.com/photo/a-vintage-radio-sitting-on-top-of-a-table-27468541/](https://www.pexels.com/photo/a-vintage-radio-sitting-on-top-of-a-table-27468541/)
