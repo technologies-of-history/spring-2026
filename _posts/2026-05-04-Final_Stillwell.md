@@ -8,7 +8,7 @@ excerpt_separator: <!--more->
 
 ### The Introduction of the Codex
 
-In this episode I discuss what I believe the most important 
+In this episode I discuss the invention of the codex and how it impacted religion when it was invented. I discuss other types of technologies like writing and the printing press in regards to how the codex has impacted it. Later in the episode we go into how the codex has changed the digital world that we live in today.
 
 
 <!--more-->
