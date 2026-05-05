@@ -14,7 +14,7 @@ In today’s podcast episode I will be exploring the different types of communic
   <h5 class="audio-description">Newspaper and Nonsense highlights the importance of newspaper and why they should receive more credit for the way the world communicates in the modern times.</h5>
   
   <audio controls>
-    <source src="https://technologies-of-history.github.io/spring-2026-data/audio/Tovar_Podcast_Final.mp3" type="audio/mpeg">
+    <source src="https://technologies-of-history.github.io/spring-2026-data/audio/Tovar_Final_Podcast.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </div>
