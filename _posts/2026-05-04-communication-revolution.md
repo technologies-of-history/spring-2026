@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 This podcast explores how writing revolutionized communication and shaped human history. 
 ![Cuneiform Tablet](https://letterformarchive.org/wp-content/uploads/legacy/Letterform_Archive_cuneiform_tablet.jpg)
 
+<!--more--> 
+
 <html>
 <div class="custom-audio-player">
   <h4 class="audio-title">Why Writing Is the Most Important Communication Revolution</h4>
@@ -25,7 +27,11 @@ This podcast explores how writing revolutionized communication and shaped human 
 ### Sources Cited
 
 [Cunieform Digital Library](https://cdli.earth)
+
 [Goody and Watt, The Consequences of Literacy](https://tcu.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=01TCU_INST:01TCU_INST&search_scope=MyInst_and_CI&tab=Everything&docid=cdi_proquest_miscellaneous_60579216)
+
 [Ramsay MacMullen, Epigraphic Habit in the Roman Empire](https://tcu.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=01TCU_INST:01TCU_INST&search_scope=MyInst_and_CI&tab=Everything&docid=cdi_proquest_journals_1289730083)
+
 [Elizabeth Eisenstein, In the Wake of the Printing Press](https://tcu.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=01TCU_INST:01TCU_INST&search_scope=MyInst_and_CI&tab=Everything&docid=cdi_webofscience_primary_A1978FQ22100003CitationCount)
+
 [Chow, Communication & Media](https://www.jstor.org/stable/j.ctt5vk8sv.14?seq=1)
