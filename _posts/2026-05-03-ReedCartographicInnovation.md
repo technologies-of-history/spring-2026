@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 This podcast will be going over how and why Cartography is the most significant communications revolution
 in history. We will compare cartography to other communication systems to further justify its significance.
-[![Old map of Mediterranean Sea](https://www.abposters.com/art-photo/old-vintage-map-of-mediterranean-sea-pirate-sail-v178497?srsltid=AfmBOorneinrjHoRaIbFv0oiRMTHs7o_j75ypVmpVZteJSOcXUIp7urt)]
+![Sketch illustrating the tour of General W. T. Sherman, in the summer of 1877](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~377422~90143606:Sketch-illustrating-the-tour-of-Gen?mi=19&trs=7904&qvq=q:old%20map;lc:RUMSEY~8~1)
 <!--more-->
 
 <html>
@@ -22,5 +22,6 @@ in history. We will compare cartography to other communication systems to furthe
 </html>
 
 Sources Cited
-https://www.jstor.org/stable/1151388?sid=primo&seq=1
-https://www.degruyterbrill.com/document/doi/10.7208/chicago/9780226837932/html
+[Mundy Article](https://www.jstor.org/stable/1151388?sid=primo&seq=1)
+[Trailblazers](https://www.degruyterbrill.com/document/doi/10.7208/chicago/9780226837932-003/html)
+[Writing on Water](https://www.degruyterbrill.com/document/doi/10.7208/chicago/9780226837932-004/html)
