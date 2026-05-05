@@ -18,7 +18,7 @@ That's exactly what I discuss in my podcast. So let's find out!
   <h5 class="audio-description">Lets talk about the greatest communications invention, writing!</h5>
   
   <audio controls>
-    <source src="https://technologies-of-history.github.io/spring-2026-data/audio/Love_Final_Podcast.mp3" type="audio/mpeg">
+    <source src="https://technologies-of-history.github.io/spring-2026-data/audio/Love_Final_Podcast_Recording.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 
