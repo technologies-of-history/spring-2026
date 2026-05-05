@@ -33,15 +33,18 @@ In this episode, I argue that the invention of writing is the most significant c
 
 ## Sources Cited 
 
+- CDLI contributors. (2026, May 5). *Home*. Cuneiform Digital Library Initiative.  
+  [Visit the CDLI Archive](https://cdli.earth/)
+
 - Cooley, Alison E., and Graham Oliver. “Inscriptions.” In *The Edinburgh Companion to Ancient Greece and Rome.*
 
 - Goody, Jack, and Ian Watt. *The Consequences of Literacy.*  
-  https://www.jstor.org/stable/177651 
+  [Read on JSTOR](https://www.jstor.org/stable/177651)
 
 - Mora-Marín, David F. “Early Olmec Writing: Reading Format and Reading Order.” *Latin American Antiquity* 20, no. 3 (2009): 395–412.
 
 - Smarthistory. “Cuneiform.”  
-  https://smarthistory.org/cuneiform/
+  [View article](https://smarthistory.org/cuneiform/)
 
 - Van De Mieroop, Marc. *Philosophy before the Greeks: The Pursuit of Truth in Ancient Babylonia.*  
-  https://www.jstor.org/stable/j.ctt1h4mhtb  
+  [Read on JSTOR](https://www.jstor.org/stable/j.ctt1h4mhtb)
