@@ -49,6 +49,8 @@ Pamela H. Smith argues that the popularization of technical writing was revoluti
 
 Is it the only revolution? No. This is when the intention is what shifted. For example, you have the roman tradition of public writing and epigraphy: inscriptions across everything that could be written into, that has stood the test of time. Their purpose was commemorative, political, and to make sure that the Roman influence was still spreading across their territories.
 
+![Roman inscription (epigraphy) on stone](https://upload.wikimedia.org/wikipedia/commons/6/6a/Res_Gestae_Divii_Augusti.jpg)
+
 It was a sense of national identity. You could be on the furthest outstretches of the Roman lands, but this type of communication was a way that the public was an inscription designed to function as a monument in of itself, like Alison Cooley mentions in her article. Through this, Romans were telling their people, aiming a little also for the people that would succeed them, what was important, who was winning, and that type of writing was also an exercise of public authority. 
 
 When the Roman authority faded, the religious authorities is what ended up taking over. 
@@ -67,6 +69,8 @@ We actually got to see the evidence of that when we were transcribing these text
 
 Alright, let’s discuss one final communication revolution in its relation to the foundation of knowledge sharing, which was the importance of the postal service. Yes, it revolutionized communication in a massive way. Governments could communicate with the people, businesses could expand, and families could stay connected more than ever before. That would not have been a possibility or even a desire without the change in the content of the communication itself.
 
+![Historical postal courier system](https://upload.wikimedia.org/wikipedia/commons/3/3b/Pony_Express_advertisement_1860.jpg)
+
 I think we’re a little used to this style of instant communication, so that we forget just how revolutionary that this was. 
 
 Information, or even how-to-books, could take months to pass from place to place, and there was almost a guarantee that this information could make it beyond the local community. We see this most specifically with the Republic of Letters, which allowed for a lot of philosophy to travel from more enlightened areas of somewhere like France to more remote corners of the world, like Russia. If you’re interested in reading more about Catherine the Great’s participation in that, check out my Digital Tools 5 post on the class page. 
@@ -76,3 +80,5 @@ But, and this is the distinction that I want to make, this was a change in the m
 Let’s take the modern YouTube tutorial for example. I know there’s at least a hundred links in my search history from how to tie a tie, to how to install a light switch socket, to how to start my car when the battery in my key is dead which may or may not have happened last week. I mean, there’s a whole industry that’s built on teaching other people their specific skills and the answer to that is the Food Network.
 
 Now, if you’ll excuse me, I’ve just remembered a pasta ariabiatta that I saw on an episode of Barefoot Contessa that I’ve been thinking of trying for several days, and I think now is the perfect time to participate in this communications revolution.
+
+![Ina Garten (Barefoot Contessa)](https://upload.wikimedia.org/wikipedia/commons/4/4f/Ina_Garten.jpg)
