@@ -12,6 +12,8 @@ In this episode I discuss the invention of the codex and how it impacted religio
 
 
 
+![Codex Picture](https://d33wubrfki0l68.cloudfront.net/c888cdae10aef246ddfafd7bf84281a131a2c5d6/6a8d0/images/posts/sweden/codex_gigas/bookmark2.png)
+
 <!--more-->
 
 <html>
